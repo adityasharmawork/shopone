@@ -51,6 +51,7 @@ const Header = ({ searchQuery, setSearchQuery }: HeaderProps) => {
             <p className="text-sm text-gray-600 dark:text-gray-300">For all your shopping needs</p>
           </div>
         </div>
+        
         <div className="w-full md:w-auto flex items-center gap-4">
           
           <div className="w-full md:w-auto flex-1 md:max-w-md relative">
