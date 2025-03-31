@@ -52,11 +52,7 @@ const Header = ({ searchQuery, setSearchQuery }: HeaderProps) => {
           </div>
         </div>
         <div className="w-full md:w-auto flex items-center gap-4">
-          <div className="flex items-center gap-2 mr-4">
-            <Moon size={18} className={`text-gray-600 dark:text-gray-300 ${!isDarkMode ? 'opacity-50' : 'opacity-100'}`} />
-            <Switch checked={isDarkMode} onCheckedChange={toggleDarkMode} />
-            <Sun size={18} className={`text-gray-600 dark:text-gray-300 ${isDarkMode ? 'opacity-50' : 'opacity-100'}`} />
-          </div>
+          
           <div className="w-full md:w-auto flex-1 md:max-w-md relative">
             <Input
               type="text"
@@ -67,6 +63,13 @@ const Header = ({ searchQuery, setSearchQuery }: HeaderProps) => {
             />
             <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400" size={18} />
           </div>
+
+          <div className="flex items-center gap-2 mr-4">
+            <Moon size={18} className={`text-gray-600 dark:text-gray-300 ${!isDarkMode ? 'opacity-50' : 'opacity-100'}`} />
+            <Switch checked={isDarkMode} onCheckedChange={toggleDarkMode} />
+            <Sun size={18} className={`text-gray-600 dark:text-gray-300 ${isDarkMode ? 'opacity-50' : 'opacity-100'}`} />
+          </div>
+          
         </div>
       </div>
     </header>
