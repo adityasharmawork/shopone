@@ -9,7 +9,7 @@ import { storeData, getCategories } from '@/data/StoreData';
 import { Store } from '@/components/StoreCard';
 
 // Top brands that should appear in the featured section
-const TOP_BRANDS = ['Amazon', 'Flipkart', 'Myntra', 'Nykaa'];
+const TOP_BRANDS = ['Amazon', 'Flipkart', 'Myntra', 'Nykaa', 'Ajio', 'Buykaro', 'M Caffeine', 'The Derma Co', 'mamaearth', 'Wow', 'Croma', 'Clovia', 'The Man Company'];
 
 const Index = () => {
   const [searchQuery, setSearchQuery] = useState('');
