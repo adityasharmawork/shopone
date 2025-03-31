@@ -38,7 +38,7 @@ const Header = ({ searchQuery, setSearchQuery }: HeaderProps) => {
   };
 
   return (
-    <header className="container mx-auto py-6 px-4">
+    <header className="container mx-auto py-4 px-4">
       <div className="flex flex-col md:flex-row justify-between items-center gap-4">
         <div className="flex items-center">
           <div className="bg-gradient-to-r from-shopone-purple to-shopone-pink rounded-full p-2 mr-3">
@@ -69,7 +69,7 @@ const Header = ({ searchQuery, setSearchQuery }: HeaderProps) => {
             <Switch checked={isDarkMode} onCheckedChange={toggleDarkMode} />
             <Sun size={18} className={`text-gray-600 dark:text-gray-300 ${isDarkMode ? 'opacity-50' : 'opacity-100'}`} />
           </div>
-          
+
         </div>
       </div>
     </header>
