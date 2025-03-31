@@ -7,7 +7,7 @@ export interface Store {
   name: string;
   logo: string;
   url: string;
-  categories: string[]; // Still keeping this for filtering, but not displaying
+  categories: string[]; 
   description: string;
 }
 

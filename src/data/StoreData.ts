@@ -113,7 +113,95 @@ export const storeData: Store[] = [
     url: 'https://www.decathlon.com',
     categories: ['Health & Fitness', 'Fashion'],
     description: 'Sports equipment and athletic wear'
-  }
+  },
+  {
+    id: '15',
+    name: 'Nykaa Fashion',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/nykaa-store-new-2-1712130365.png',
+    url: 'https://bitli.in/vl1kLTN',
+    categories: ['General', 'Fashion', 'Beauty'],
+    description: 'Shop Designer Clothes, Accessories Online from Top Brands'
+  },
+  {
+    id: '16',
+    name: 'Shopsy',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/shopsy-store-1692602320.png',
+    url: 'https://bitli.in/7lhlFZs',
+    categories: ['General', 'Fashion', 'Beauty'],
+    description: 'A digital commerce initiative by Flipkart'
+  },
+  {
+    id: '17',
+    name: 'Dot & Key',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/dot-key-new-3-1701263368.jpg',
+    url: 'https://bitli.in/gRg3nyg',
+    categories: ['Beauty'],
+    description: 'A Nature-First Brand designed for all Skin Types'
+  },
+  {
+    id: '18',
+    name: 'BuyKaro',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/buykaro-store-1679660852.jpg',
+    url: 'https://bitli.in/TLwh0Jp',
+    categories: ['General', 'Fashion'],
+    description: 'Get the best of shopping at the best prices!'
+  },
+  {
+    id: '19',
+    name: 'M Caffeine',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/mcaffeine-store-4-1639372559.jpg',
+    url: 'https://bitli.in/3c7je7D',
+    categories: ['General'],
+    description: "India's 1st Caffeinated Personal Care Brand | 100% Vegan & Cruelty Free | SLS-Paraben Free"
+  },
+  {
+    id: '20',
+    name: 'The Derma Co',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/thedermaco-store-1626755932.png',
+    url: 'https://bitli.in/4Wc3mZ0',
+    categories: ['General', 'Beauty'],
+    description: 'Bringing science-based ingredients that are safe and effective!'
+  },
+  {
+    id: '21',
+    name: 'mamaearth',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/mama-earth-coupons-1561467924.png',
+    url: 'https://bitli.in/x8baiL4',
+    categories: ['General', 'Beauty'],
+    description: 'Certified Toxin Free Beauty & Baby Care Products'
+  },
+  {
+    id: '22',
+    name: 'Wow',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/wow-skin-care-1591489432.png',
+    url: 'https://bitli.in/fk70pw6',
+    categories: ['Beauty'],
+    description: 'Natural & Toxin-Free | Exclusive Deals'
+  },
+  {
+    id: '23',
+    name: 'Croma',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/croma-store-1644578583.png',
+    url: 'https://bitli.in/EqTEVr6',
+    categories: ['Electronics', 'Home'],
+    description: 'Buy multi-brand digital gadgets and home electronic products'
+  },
+  {
+    id: '15',
+    name: 'Nykaa Fashion',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/nykaa-store-new-2-1712130365.png',
+    url: 'https://bitli.in/vl1kLTN',
+    categories: ['General', 'Fashion', 'Beauty'],
+    description: 'Shop Designer Clothes, Accessories Online from Top Brands'
+  },
+  {
+    id: '15',
+    name: 'Nykaa Fashion',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/nykaa-store-new-2-1712130365.png',
+    url: 'https://bitli.in/vl1kLTN',
+    categories: ['General', 'Fashion', 'Beauty'],
+    description: 'Shop Designer Clothes, Accessories Online from Top Brands'
+  },
 ];
 
 export const getCategories = (): string[] => {
