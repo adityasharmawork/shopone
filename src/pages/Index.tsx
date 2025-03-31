@@ -61,8 +61,8 @@ const Index = () => {
         
         <div className="container mx-auto px-4 mt-12">
           <div className="text-center max-w-3xl mx-auto">
-            <h2 className="text-3xl md:text-4xl font-bold mb-6 dark:text-white">Discover Your Favorite <span className="hero-gradient">Stores</span> In One Place</h2>
-            <p className="text-xl text-gray-600 dark:text-gray-300 mb-8">For all your shopping needs</p>
+            <h2 className="text-3xl md:text-4xl font-bold mb-12 dark:text-white">Discover Your Favorite <span className="hero-gradient">Stores</span> In One Place</h2>
+            {/* <p className="text-xl text-gray-600 dark:text-gray-300 mb-8">For all your shopping needs</p> */}
           </div>
           
           <Categories 
@@ -74,8 +74,8 @@ const Index = () => {
           {/* Top Choices Section - only shown when "All" category is selected and not searching */}
           {selectedCategory === 'All' && topStores.length > 0 && !searchQuery && (
             <>
-              <div className="mb-6">
-                <h3 className="text-2xl font-semibold mb-4 text-center hero-gradient">Top Choices</h3>
+              <div className="mt-10 mb-10">
+                <h3 className="text-2xl font-semibold mb-8 text-center hero-gradient">Top Choices</h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
                   {topStores.map(store => (
                     <div key={`top-${store.id}`} className="transition-all duration-300 hover:translate-y-[-5px]">
@@ -85,11 +85,11 @@ const Index = () => {
                 </div>
               </div>
               
-              <div className="my-8">
+              <div className="my-10">
                 <Separator className="bg-gradient-to-r from-shopone-purple/20 via-shopone-pink/30 to-shopone-purple/20 h-0.5 dark:from-shopone-purple/30 dark:via-shopone-pink/40 dark:to-shopone-purple/30" />
               </div>
               
-              <h3 className="text-2xl font-semibold mb-6 text-center dark:text-white">All Stores</h3>
+              <h3 className="text-2xl font-semibold mb-8 text-center dark:text-white">All Stores</h3>
             </>
           )}
           

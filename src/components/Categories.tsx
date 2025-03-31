@@ -9,7 +9,7 @@ interface CategoriesProps {
 
 const Categories = ({ categories, selectedCategory, setSelectedCategory }: CategoriesProps) => {
   return (
-    <div className="flex flex-wrap justify-center gap-2 mb-8">
+    <div className="flex flex-wrap justify-center gap-6 mb-10">
       <button
         onClick={() => setSelectedCategory('All')}
         className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${
