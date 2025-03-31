@@ -1,0 +1,134 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+
+    --radius: 0.5rem;
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 240 4.9% 83.9%;
+  }
+
+  body {
+    @apply bg-gradient-to-br from-shopone-purple/5 via-white to-shopone-pink/5 dark:from-shopone-purple/10 dark:via-gray-900 dark:to-shopone-pink/10 min-h-screen;
+  }
+}
+
+.glass-card {
+  @apply backdrop-blur-sm bg-white/80 border border-white/20 shadow-lg hover:shadow-xl transition-all duration-300 dark:bg-gray-800/50 dark:border-gray-700/50;
+}
+
+.shop-card {
+  @apply relative overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl bg-white dark:bg-gray-800 border border-gray-100 dark:border-gray-700;
+  height: 240px;
+  display: flex;
+  flex-direction: column;
+}
+
+.shop-card::before {
+  content: "";
+  @apply absolute inset-0 bg-gradient-to-br from-shopone-pink/10 via-shopone-purple/5 to-shopone-yellow/10 opacity-0 transition-opacity duration-300 dark:from-shopone-pink/20 dark:via-shopone-purple/15 dark:to-shopone-yellow/20;
+  z-index: 1;
+}
+
+.shop-card:hover::before {
+  @apply opacity-100;
+}
+
+.hero-gradient {
+  @apply bg-gradient-to-r from-shopone-purple via-shopone-pink to-shopone-yellow bg-clip-text text-transparent;
+}
+
+.glow-border {
+  box-shadow: 0 0 15px rgba(255, 61, 137, 0.3);
+}
+
+/* Make the glow animation softer */
+.animate-glow-soft {
+  animation: glow-soft 3s ease-in-out infinite;
+}
+
+@keyframes glow-soft {
+  0%, 100% {
+    box-shadow: 0 0 5px rgba(255, 61, 137, 0.15);
+  }
+  50% {
+    box-shadow: 0 0 10px rgba(255, 61, 137, 0.25);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
