@@ -187,20 +187,20 @@ export const storeData: Store[] = [
     description: 'Buy multi-brand digital gadgets and home electronic products'
   },
   {
-    id: '15',
-    name: 'Nykaa Fashion',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/nykaa-store-new-2-1712130365.png',
-    url: 'https://bitli.in/vl1kLTN',
-    categories: ['General', 'Fashion', 'Beauty'],
-    description: 'Shop Designer Clothes, Accessories Online from Top Brands'
+    id: '24',
+    name: 'Clovia',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/clovia-store-1627967240.png',
+    url: 'https://bitli.in/jHjMVmD',
+    categories: ['Fashion'],
+    description: 'Buy Trendy & Affordable Bras, Activewear, Nightwear & more'
   },
   {
-    id: '15',
-    name: 'Nykaa Fashion',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/nykaa-store-new-2-1712130365.png',
-    url: 'https://bitli.in/vl1kLTN',
-    categories: ['General', 'Fashion', 'Beauty'],
-    description: 'Shop Designer Clothes, Accessories Online from Top Brands'
+    id: '25',
+    name: 'The Man Company',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/themancompany-direct-new-1702282942.png',
+    url: 'https://bitli.in/P4cRd1B',
+    categories: ['General', 'Beauty'],
+    description: "Complete Range of Men's Grooming Products"
   },
 ];
 
