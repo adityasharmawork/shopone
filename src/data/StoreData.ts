@@ -226,6 +226,38 @@ export const storeData: Store[] = [
     categories: ['General', 'Beauty'],
     description: "Complete Range of Men's Grooming Products"
   },
+  {
+    id: '25',
+    name: 'The Man Company',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/themancompany-direct-new-1702282942.png',
+    url: 'https://bitli.in/P4cRd1B',
+    categories: ['General', 'Beauty'],
+    description: "Complete Range of Men's Grooming Products"
+  },
+  {
+    id: '25',
+    name: 'The Man Company',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/themancompany-direct-new-1702282942.png',
+    url: 'https://bitli.in/P4cRd1B',
+    categories: ['General', 'Beauty'],
+    description: "Complete Range of Men's Grooming Products"
+  },
+  {
+    id: '25',
+    name: 'The Man Company',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/themancompany-direct-new-1702282942.png',
+    url: 'https://bitli.in/P4cRd1B',
+    categories: ['General', 'Beauty'],
+    description: "Complete Range of Men's Grooming Products"
+  },
+  {
+    id: '25',
+    name: 'The Man Company',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/themancompany-direct-new-1702282942.png',
+    url: 'https://bitli.in/P4cRd1B',
+    categories: ['General', 'Beauty'],
+    description: "Complete Range of Men's Grooming Products"
+  },
 ];
 
 export const getCategories = (): string[] => {
