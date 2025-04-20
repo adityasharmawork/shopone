@@ -6,6 +6,8 @@ import Footer from '@/components/Footer';
 import { Separator } from '@/components/ui/separator';
 import { storeData, getCategories } from '@/data/StoreData';
 import { Store } from '@/components/StoreCard';
+import { Button } from '@/components/ui/button';
+import { ChevronDown } from 'lucide-react';
 
 // Top brands that should appear in the featured section
 const TOP_BRANDS = ['Amazon', 'Flipkart', 'Myntra', 'Nykaa', 'Nykaa Fashion', 'Ajio', 'Buykaro', 'M Caffeine', 'The Derma Co', 'mamaearth', 'Wow', 'Croma', 'Clovia', 'The Man Company'];
@@ -15,6 +17,7 @@ const Index = () => {
   const [selectedCategory, setSelectedCategory] = useState('All');
   const [filteredStores, setFilteredStores] = useState<Store[]>(storeData);
   const [topStores, setTopStores] = useState<Store[]>([]);
+  const [showAllTopStores, setShowAllTopStores] = useState(false);
   const categories = getCategories();
 
   useEffect(() => {
@@ -46,7 +49,13 @@ const Index = () => {
     }
     
     setFilteredStores(filtered);
+    // Reset showAllTopStores when changing filters
+    setShowAllTopStores(false);
   }, [searchQuery, selectedCategory]);
+
+  // Determine which top stores to display
+  const displayedTopStores = showAllTopStores ? topStores : topStores.slice(0, 6);
+  const hasMoreTopStores = topStores.length > 6;
 
   return (
     <div className="min-h-screen flex flex-col bg-gradient-to-br from-shopone-purple/5 via-white to-shopone-pink/5 dark:from-shopone-purple/10 dark:via-gray-900 dark:to-shopone-pink/10">
@@ -73,15 +82,30 @@ const Index = () => {
           {/* Top Choices Section - only shown when "All" category is selected and not searching */}
           {selectedCategory === 'All' && topStores.length > 0 && !searchQuery && (
             <>
-              <div className="mt-10 mb-10">
+              <div className="mt-10 mb-6">
                 <h3 className="text-2xl font-semibold mb-8 text-center hero-gradient">Top Choices</h3>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
-                  {topStores.map(store => (
+                  {displayedTopStores.map(store => (
                     <div key={`top-${store.id}`} className="transition-all duration-300 hover:translate-y-[-5px]">
                       <StoreCard store={store} />
                     </div>
                   ))}
                 </div>
+                
+                {/* Show More button for mobile only */}
+                {hasMoreTopStores && !showAllTopStores && (
+                  <div className="md:hidden mt-6 flex flex-col items-center">
+                    {/* <Separator className="w-full mb-6 bg-gradient-to-r from-shopone-purple/20 via-shopone-pink/30 to-shopone-purple/20 h-0.5 dark:from-shopone-purple/30 dark:via-shopone-pink/40 dark:to-shopone-purple/30" /> */}
+                    <Button 
+                      variant="outline" 
+                      onClick={() => setShowAllTopStores(true)}
+                      className="group bg-white/80 dark:bg-gray-800/80 border border-gray-200 dark:border-gray-700 hover:bg-shopone-pink/10 dark:hover:bg-shopone-pink/20 transition-all"
+                    >
+                      Show More 
+                      <ChevronDown className="h-4 w-4 ml-1 group-hover:translate-y-0.5 transition-transform" />
+                    </Button>
+                  </div>
+                )}
               </div>
               
               <div className="my-10">
