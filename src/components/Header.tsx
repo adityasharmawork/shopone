@@ -37,10 +37,10 @@ const Header = ({ searchQuery, setSearchQuery }: HeaderProps) => {
   };
 
   return (
-    <header className="container mx-auto py-4 px-4">
+    <header className="container mx-auto pb-4 px-4">
       <div className="flex flex-col gap-4">
         <div className="flex justify-between items-center">
-          <div className="flex items-center">
+          <div className="flex items-center mb-6">
             <div className="bg-gradient-to-r from-shopone-purple to-shopone-pink rounded-full p-1.5 sm:p-2 mr-2 sm:mr-3">
               <ShoppingBag className="text-white" size={18} />
             </div>
