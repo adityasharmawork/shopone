@@ -84,8 +84,19 @@ const Index = () => {
             <>
               <div className="mt-10 mb-6">
                 <h3 className="text-2xl font-semibold mb-8 text-center hero-gradient">Top Choices</h3>
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
+                
+                {/* Mobile view - limited stores with Show More button */}
+                <div className="md:hidden grid grid-cols-2 gap-4">
                   {displayedTopStores.map(store => (
+                    <div key={`top-${store.id}`} className="transition-all duration-300 hover:translate-y-[-5px]">
+                      <StoreCard store={store} />
+                    </div>
+                  ))}
+                </div>
+                
+                {/* Desktop view - all stores at once */}
+                <div className="hidden md:grid md:grid-cols-4 gap-6">
+                  {topStores.map(store => (
                     <div key={`top-${store.id}`} className="transition-all duration-300 hover:translate-y-[-5px]">
                       <StoreCard store={store} />
                     </div>
