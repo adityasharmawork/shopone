@@ -59,7 +59,7 @@ const Header = ({ searchQuery, setSearchQuery }: HeaderProps) => {
           </div>
         </div>
         
-        <div className="w-full relative">
+        <div className="w-full relative mt-6">
           <Input
             type="text"
             placeholder="Search stores..."
