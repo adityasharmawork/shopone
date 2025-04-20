@@ -37,7 +37,7 @@ const Header = ({ searchQuery, setSearchQuery }: HeaderProps) => {
   };
 
   return (
-    <header className="container mx-auto py-4 px-4">
+    <header className="container mx-auto pb-4 px-4">
       <div className="flex flex-col gap-4">
         <div className="flex justify-between items-center">
           <div className="flex items-center">
