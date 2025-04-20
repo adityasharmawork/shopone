@@ -69,7 +69,7 @@ const Index = () => {
         
         <div className="container mx-auto px-4 mt-12">
           <div className="text-center max-w-3xl mx-auto">
-            <h2 className="text-3xl md:text-4xl font-bold mb-12 dark:text-white">Discover Your Favorite <span className="hero-gradient">Stores</span> In One Place</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-12 dark:text-white">Discover Your <span className="hero-gradient">Favorite Stores</span> In One Place</h2>
             {/* <p className="text-xl text-gray-600 dark:text-gray-300 mb-8">For all your shopping needs</p> */}
           </div>
           
@@ -84,19 +84,8 @@ const Index = () => {
             <>
               <div className="mt-10 mb-6">
                 <h3 className="text-2xl font-semibold mb-8 text-center hero-gradient">Top Choices</h3>
-                
-                {/* Mobile view - limited stores with Show More button */}
-                <div className="md:hidden grid grid-cols-2 gap-4">
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
                   {displayedTopStores.map(store => (
-                    <div key={`top-${store.id}`} className="transition-all duration-300 hover:translate-y-[-5px]">
-                      <StoreCard store={store} />
-                    </div>
-                  ))}
-                </div>
-                
-                {/* Desktop view - all stores at once */}
-                <div className="hidden md:grid md:grid-cols-4 gap-6">
-                  {topStores.map(store => (
                     <div key={`top-${store.id}`} className="transition-all duration-300 hover:translate-y-[-5px]">
                       <StoreCard store={store} />
                     </div>
