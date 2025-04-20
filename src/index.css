@@ -86,9 +86,21 @@
 
 .shop-card {
   @apply relative overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-xl rounded-xl bg-white dark:bg-gray-800 border border-gray-100 dark:border-gray-700;
-  height: 240px;
+  height: 200px;
   display: flex;
   flex-direction: column;
+}
+
+@media (min-width: 640px) {
+  .shop-card {
+    height: 220px;
+  }
+}
+
+@media (min-width: 768px) {
+  .shop-card {
+    height: 240px;
+  }
 }
 
 .shop-card::before {

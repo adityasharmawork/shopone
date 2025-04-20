@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import Header from '@/components/Header';
 import StoreCard from '@/components/StoreCard';
@@ -76,7 +75,7 @@ const Index = () => {
             <>
               <div className="mt-10 mb-10">
                 <h3 className="text-2xl font-semibold mb-8 text-center hero-gradient">Top Choices</h3>
-                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
                   {topStores.map(store => (
                     <div key={`top-${store.id}`} className="transition-all duration-300 hover:translate-y-[-5px]">
                       <StoreCard store={store} />
@@ -93,7 +92,7 @@ const Index = () => {
             </>
           )}
           
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6">
             {filteredStores.length > 0 ? (
               filteredStores.map(store => (
                 <div key={store.id} className="transition-all duration-300 hover:translate-y-[-5px]" style={{ animationDelay: `${parseInt(store.id) * 0.1}s` }}>
