@@ -4,6 +4,7 @@ import StoreCard from '@/components/StoreCard';
 import Categories from '@/components/Categories';
 import Footer from '@/components/Footer';
 import TelegramBanner from '@/components/TelegramBanner';
+import TelegramPopup from '@/components/TelegramPopup';
 import { Separator } from '@/components/ui/separator';
 import { storeData, getCategories } from '@/data/StoreData';
 import { Store } from '@/components/StoreCard';
@@ -20,7 +21,17 @@ const Index = () => {
   const [filteredStores, setFilteredStores] = useState<Store[]>(storeData);
   const [topStores, setTopStores] = useState<Store[]>([]);
   const [showAllTopStores, setShowAllTopStores] = useState(false);
+  const [showTelegramPopup, setShowTelegramPopup] = useState(false);
   const categories = getCategories();
+
+  // Add popup timer effect
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setShowTelegramPopup(true);
+    }, 60000); // 1 minute
+
+    return () => clearTimeout(timer);
+  }, []);
 
   useEffect(() => {
     let filtered = storeData;
@@ -61,6 +72,11 @@ const Index = () => {
 
   return (
     <div className="min-h-screen flex flex-col bg-gradient-to-br from-shopone-purple/5 via-white to-shopone-pink/5 dark:from-shopone-purple/10 dark:via-gray-900 dark:to-shopone-pink/10">
+      {/* Show popup when showTelegramPopup is true */}
+      {showTelegramPopup && (
+        <TelegramPopup onClose={() => setShowTelegramPopup(false)} />
+      )}
+
       {/* Hero Section */}
       <section className="relative pt-12 pb-24 overflow-hidden">
         <div className="absolute top-0 left-0 w-32 h-32 bg-shopone-pink/10 rounded-full filter blur-3xl"></div>
