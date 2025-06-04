@@ -15,7 +15,7 @@ const TelegramBanner = () => {
         </div>
         
         <h3 className="mb-2 text-2xl font-bold">Join Our Telegram Channel!</h3>
-        <p className="mb-6 max-w-md text-white/90">
+        <p className="mb-6 max-w-xl text-white/90">
           Get instant notifications for the best deals, exclusive discounts, and flash sales. Never miss out on amazing shopping opportunities!
         </p>
         
