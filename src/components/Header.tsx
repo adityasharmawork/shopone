@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Search, ShoppingBag, Moon, Sun } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { Switch } from '@/components/ui/switch';
+import TelegramBanner from './TelegramBanner';
 
 interface HeaderProps {
   searchQuery: string;
@@ -59,7 +60,7 @@ const Header = ({ searchQuery, setSearchQuery }: HeaderProps) => {
           </div>
         </div>
         
-        <div className="w-full relative">
+        {/* <div className="w-full relative">
           <Input
             type="text"
             placeholder="Search stores..."
@@ -68,7 +69,7 @@ const Header = ({ searchQuery, setSearchQuery }: HeaderProps) => {
             className="pl-10 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm border border-gray-200 dark:border-gray-700 focus:border-shopone-pink/50 rounded-full shadow-sm dark:text-white"
           />
           <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400" size={18} />
-        </div>
+        </div> */}
       </div>
     </header>
   );

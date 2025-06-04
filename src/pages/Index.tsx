@@ -3,11 +3,13 @@ import Header from '@/components/Header';
 import StoreCard from '@/components/StoreCard';
 import Categories from '@/components/Categories';
 import Footer from '@/components/Footer';
+import TelegramBanner from '@/components/TelegramBanner';
 import { Separator } from '@/components/ui/separator';
 import { storeData, getCategories } from '@/data/StoreData';
 import { Store } from '@/components/StoreCard';
 import { Button } from '@/components/ui/button';
-import { ChevronDown } from 'lucide-react';
+import { ChevronDown, Search } from 'lucide-react';
+import { Input } from '@/components/ui/input';
 
 // Top brands that should appear in the featured section
 const TOP_BRANDS = ['Amazon', 'Flipkart', 'Myntra', 'Nykaa', 'Nykaa Fashion', 'Ajio', 'Buykaro', 'M Caffeine', 'The Derma Co', 'mamaearth', 'Wow', 'Croma', 'Clovia', 'The Man Company'];
@@ -66,12 +68,28 @@ const Index = () => {
         <div className="absolute top-1/4 right-1/4 w-24 h-24 bg-shopone-yellow/10 rounded-full filter blur-3xl"></div>
         
         <Header searchQuery={searchQuery} setSearchQuery={setSearchQuery} />
+
+        {/* Telegram Banner */}
+        <div className="max-w-7xl mx-auto mb-16 px-4">
+          <TelegramBanner />
+        </div>
         
         <div className="container mx-auto px-4 mt-12">
           <div className="text-center max-w-3xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-12 dark:text-white">Discover Your <span className="hero-gradient">Favorite Stores</span> In One Place</h2>
             {/* <p className="text-xl text-gray-600 dark:text-gray-300 mb-8">For all your shopping needs</p> */}
           </div>
+
+          <div className="w-full relative">
+          <Input
+            type="text"
+            placeholder="Search stores..."
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            className="pl-10 mb-16 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm border border-gray-200 dark:border-gray-700 focus:border-shopone-pink/50 rounded-full shadow-sm dark:text-white"
+          />
+          <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400" size={18} />
+        </div>
           
           <Categories 
             categories={categories} 
@@ -142,6 +160,12 @@ const Index = () => {
             )}
           </div>
         </div>
+
+        {/* Telegram Banner */}
+        <div className="max-w-7xl mx-auto mt-32 mb-16 px-4">
+          <TelegramBanner />
+        </div>
+
       </section>
       
       <div className="flex-grow"></div>
