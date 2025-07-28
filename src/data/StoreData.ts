@@ -299,12 +299,12 @@ export const storeData: Store[] = [
     description: "An Indian electronic brand that offers a wide range of innovative products!"
   },
   {
-    id: '29',
-    name: 'Bold Care',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/boldcare-store-1678774861.png',
-    url: 'https://bitli.in/oVQ2kyV',
-    categories: ['General', 'Health & Fitness'],
-    description: "Solutions for the modern man who wants to get more out of life!"
+    id: '38',
+    name: 'Blissclub',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/bliss-club-1709812822.png',
+    url: 'https://bitli.in/ofXF1zX',
+    categories: ['Accessories'],
+    description: "Engineered for Performance - Bliss Club Activewear Popular for Fit & Comfort!"
   },
   {
     id: '29',
