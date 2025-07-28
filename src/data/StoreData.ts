@@ -475,12 +475,12 @@ export const storeData: Store[] = [
     description: "Discover the World with Best Travel Experience!"
   },
   {
-    id: '57',
-    name: 'Redcliffe Labs',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/redclifflabs-store-1734083102.png',
-    url: 'https://bitli.in/xpHa78e',
-    categories: ['General', 'Health & Fitness', 'Pharmacy'],
-    description: "Redcliffe Labs: Accurate insights, healthier tomorrows!"
+    id: '60',
+    name: 'Noise',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png',
+    url: 'https://bitli.in/iBnrK7D',
+    categories: ['General', 'Electronics', 'Accessories'],
+    description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
   },
 ];
 
