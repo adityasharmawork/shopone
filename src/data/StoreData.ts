@@ -339,12 +339,12 @@ export const storeData: Store[] = [
     description: "Pure Ayurvedic Wellness: Revitalize, Strengthen, Balance, and Restore!"
   },
   {
-    id: '40',
-    name: 'Pepperfry',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/pepperfry-new-1721737170.png',
-    url: 'https://bitli.in/nu2kYq0',
-    categories: ['General', 'Home'],
-    description: "Furniture, Home Decor, Lamps, Homeware and more at best prices!"
+    id: '43',
+    name: 'Cleartrip',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/cleartrip-admitad-1664859262.jpg',
+    url: 'https://bitli.in/TQp5vw8',
+    categories: ['Travelling'],
+    description: "Simplifying your travel experience with seamless booking of flights, hotels, and more!"
   },
   {
     id: '40',
