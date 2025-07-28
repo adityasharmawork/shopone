@@ -807,7 +807,7 @@ export const storeData: Store[] = [
     name: 'Times Prime',
     logo: 'https://asset20.ckassets.com/resources/image/stores/times-prime-new-1704797504.jpg',
     url: 'https://bitli.in/gnsfn8K',
-    categories: ['General'],
+    categories: ['General', 'Learning'],
     description: "Get Incredible Offers on Disney+ Hotstar, SonyLIV, Uber & Many More"
   },
   {
