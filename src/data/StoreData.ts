@@ -275,12 +275,12 @@ export const storeData: Store[] = [
     description: "Premium and Natural Skincare Products"
   },
   {
-    id: '29',
-    name: 'Bold Care',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/boldcare-store-1678774861.png',
-    url: 'https://bitli.in/oVQ2kyV',
-    categories: ['General', 'Health & Fitness'],
-    description: "Solutions for the modern man who wants to get more out of life!"
+    id: '35',
+    name: 'Hidesign',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/hidesign-store-1691473816.png',
+    url: 'https://bitli.in/vteQMBG',
+    categories: ['General', 'Accessories'],
+    description: "Individually handcrafted products using the finest leathers!"
   },
   {
     id: '29',
