@@ -347,12 +347,12 @@ export const storeData: Store[] = [
     description: "Simplifying your travel experience with seamless booking of flights, hotels, and more!"
   },
   {
-    id: '40',
-    name: 'Pepperfry',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/pepperfry-new-1721737170.png',
-    url: 'https://bitli.in/nu2kYq0',
-    categories: ['General', 'Home'],
-    description: "Furniture, Home Decor, Lamps, Homeware and more at best prices!"
+    id: '44',
+    name: 'Surveoo',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/surveo-us-store-1725351118.png',
+    url: 'https://bitli.in/S7FGloJ',
+    categories: ['General'],
+    description: "No. 1 Paid Survey Surveoo"
   },
   {
     id: '40',
