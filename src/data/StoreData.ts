@@ -316,11 +316,11 @@ export const storeData: Store[] = [
   },
   {
     id: '40',
-    name: 'Pepperfry',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/pepperfry-new-1721737170.png',
-    url: 'https://bitli.in/nu2kYq0',
-    categories: ['General', 'Home'],
-    description: "Furniture, Home Decor, Lamps, Homeware and more at best prices!"
+    name: 'Uniqlo',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/uniqlo-store-1723805465.png',
+    url: 'https://bitli.in/eWekQtu',
+    categories: ['Beauty'],
+    description: "Redefining Global Fashion through Quality and Affordability!"
   },
   {
     id: '40',
