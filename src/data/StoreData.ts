@@ -396,11 +396,11 @@ export const storeData: Store[] = [
   },
   {
     id: '50',
-    name: 'Ceazur',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
-    url: 'https://bitli.in/nH4sXfn',
-    categories: ['Beauty', 'Health & Fitness'],
-    description: "Ceazur: Effortless elegance for the modern gentleman!"
+    name: 'Apna',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/apna-store-1728465433.png',
+    url: 'https://bitli.in/cgvLj1F',
+    categories: ['General'],
+    description: "Hire Top Talent in 48 Hours with Apna!"
   },
   {
     id: '50',
