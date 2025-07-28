@@ -451,12 +451,12 @@ export const storeData: Store[] = [
     description: "Trusted brand in Speakers, Headphones, Fitness trackers & More"
   },
   {
-    id: '50',
-    name: 'Ceazur',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
-    url: 'https://bitli.in/nH4sXfn',
-    categories: ['Beauty', 'Health & Fitness'],
-    description: "Ceazur: Effortless elegance for the modern gentleman!"
+    id: '57',
+    name: 'Redcliffe Labs',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/redclifflabs-store-1734083102.png',
+    url: 'https://bitli.in/xpHa78e',
+    categories: ['General', 'Health & Fitness', 'Pharmacy'],
+    description: "Redcliffe Labs: Accurate insights, healthier tomorrows!"
   },
 ];
 
