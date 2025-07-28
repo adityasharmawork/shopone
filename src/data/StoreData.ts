@@ -243,12 +243,12 @@ export const storeData: Store[] = [
     description: "Casual shoes & sports shoes for men, women & kids"
   },
   {
-    id: '29',
-    name: 'Bold Care',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/boldcare-store-1678774861.png',
-    url: 'https://bitli.in/oVQ2kyV',
-    categories: ['General', 'Health & Fitness'],
-    description: "Solutions for the modern man who wants to get more out of life!"
+    id: '31',
+    name: 'Medibuddy',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/medibuddy-labs-1637855791.jpg',
+    url: 'https://bitli.in/enll6iI',
+    categories: ['Pharmacy', 'Health & Fitness'],
+    description: "Medibuddy Platinum Health Checkup Package!"
   },
   {
     id: '29',
