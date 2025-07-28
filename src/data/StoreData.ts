@@ -458,6 +458,30 @@ export const storeData: Store[] = [
     categories: ['General', 'Health & Fitness', 'Pharmacy'],
     description: "Redcliffe Labs: Accurate insights, healthier tomorrows!"
   },
+  {
+    id: '58',
+    name: 'Mokobara',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/mokobara-store-1735818185.png',
+    url: 'https://bitli.in/21rat4t',
+    categories: ['Travelling'],
+    description: "Mokobara Elevates the Joy of Travel for Everyone!"
+  },
+  {
+    id: '57',
+    name: 'Redcliffe Labs',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/redclifflabs-store-1734083102.png',
+    url: 'https://bitli.in/xpHa78e',
+    categories: ['General', 'Health & Fitness', 'Pharmacy'],
+    description: "Redcliffe Labs: Accurate insights, healthier tomorrows!"
+  },
+  {
+    id: '57',
+    name: 'Redcliffe Labs',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/redclifflabs-store-1734083102.png',
+    url: 'https://bitli.in/xpHa78e',
+    categories: ['General', 'Health & Fitness', 'Pharmacy'],
+    description: "Redcliffe Labs: Accurate insights, healthier tomorrows!"
+  },
 ];
 
 export const getCategories = (): string[] => {
