@@ -307,12 +307,12 @@ export const storeData: Store[] = [
     description: "Engineered for Performance - Bliss Club Activewear Popular for Fit & Comfort!"
   },
   {
-    id: '29',
-    name: 'Bold Care',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/boldcare-store-1678774861.png',
-    url: 'https://bitli.in/oVQ2kyV',
-    categories: ['General', 'Health & Fitness'],
-    description: "Solutions for the modern man who wants to get more out of life!"
+    id: '39',
+    name: 'Pepperfry',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/pepperfry-new-1721737170.png',
+    url: 'https://bitli.in/nu2kYq0',
+    categories: ['General', 'Home'],
+    description: "Furniture, Home Decor, Lamps, Homeware and more at best prices!"
   },
 ];
 
