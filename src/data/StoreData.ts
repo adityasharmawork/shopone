@@ -363,12 +363,12 @@ export const storeData: Store[] = [
     description: "Travel Smart, Travel Happy!"
   },
   {
-    id: '40',
-    name: 'Pepperfry',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/pepperfry-new-1721737170.png',
-    url: 'https://bitli.in/nu2kYq0',
+    id: '46',
+    name: 'Sleepwell',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/sleepwell-store-1726034632.png',
+    url: 'https://bitli.in/AofZ3Zv',
     categories: ['General', 'Home'],
-    description: "Furniture, Home Decor, Lamps, Homeware and more at best prices!"
+    description: "Tailored Comfort, Perfected for Your Best Night’s Sleep!"
   },
   {
     id: '40',
