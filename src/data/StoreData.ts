@@ -507,12 +507,12 @@ export const storeData: Store[] = [
     description: "Hotel chain offering Stylish and Affordable Accommodations with Modern Amenities!"
   },
   {
-    id: '60',
-    name: 'Noise',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png',
-    url: 'https://bitli.in/iBnrK7D',
-    categories: ['General', 'Electronics', 'Accessories'],
-    description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
+    id: '64',
+    name: 'Guvi',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/guviaiml-store-1745930565.png',
+    url: 'https://bitli.in/uYn73H3',
+    categories: ['General', 'Education'],
+    description: "Empowering careers with affordable tech courses!"
   },
   {
     id: '60',
