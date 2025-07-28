@@ -562,6 +562,534 @@ export const storeData: Store[] = [
     categories: ['Pharmacy', 'Health & Fitness'],
     description: "Affordable & Genuine Substitutes, Delivered to Your Doorstep!"
   },
+  {
+    id: '71',
+    name: 'Gabit',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/gabit-skincare-store-1741610226.png',
+    url: 'https://bitli.in/1F4IFXk',
+    categories: ['Pharmacy', 'Health & Fitness'],
+    description: "Live Healthier and Longer with Gabit!"
+  },
+  {
+    id: '72',
+    name: 'Lotus Botanicals',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/lotus-botanical-store-1670917676.png',
+    url: 'https://bitli.in/Mhm81RN',
+    categories: ['Pharmacy', 'Beauty', 'Health & Fitness'],
+    description: "Indulge in the Goodness and Purity of Nature with Lotus Botanicals wide range of 100% Vegan products"
+  },
+  {
+    id: '73',
+    name: 'Clove Dental',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/clove-dental-store-1718780805.png',
+    url: 'https://bitli.in/TJaHj3f',
+    categories: ['Pharmacy', 'Health & Fitness'],
+    description: "India's largest dental chain with over 500 clinics!"
+  },
+  {
+    id: '74',
+    name: 'Urban Ladder',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/urbanladder-store-1737717682.png',
+    url: 'https://bitli.in/bgvwUEc',
+    categories: ['Home', 'General'],
+    description: "Beautiful Homes Start Here!"
+  },
+  {
+    id: '75',
+    name: 'XYXX',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/xyxx-1657861140.png',
+    url: 'https://bitli.in/igU5Hcc',
+    categories: ['General', 'Accessories'],
+    description: "Premium and Comfortable Innerwear, Loungewear and Activewear Collection"
+  },
+  {
+    id: '76',
+    name: 'Minimalist',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/minimalist-1658396231.png',
+    url: 'https://bitli.in/LnBFTxP',
+    categories: ['Beauty', 'General', 'Health & Fitness'],
+    description: "Offering High-Performance, Dermatologist-Approved Products!"
+  },
+  {
+    id: '77',
+    name: 'Kindlife',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/kindlife-1650881667.png',
+    url: 'https://bitli.in/2Eetx8a',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Clean Beauty, Nutrition & Wellness Products"
+  },
+  {
+    id: '78',
+    name: 'Hyphen',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/hyphen-store-1707997633.png',
+    url: 'https://bitli.in/MpzHOKj',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Originated from a Pure Passion for Skincare"
+  },
+  {
+    id: '79',
+    name: 'Foxtale',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/foxtale-store-1677751477.jpg',
+    url: 'https://bitli.in/7XsvsP1',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "The right place to buy Skincare Products as Per Every Skin Type"
+  },
+  {
+    id: '80',
+    name: 'VLCC',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/vlcc-store-1697627455.jpg',
+    url: 'https://bitli.in/I2t9GHt',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Growing with the legacy of 30 years in female Beauty and Skincare!"
+  },
+  {
+    id: '81',
+    name: 'Ustraa',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/ustraa-store-1697626260.png',
+    url: 'https://bitli.in/Bdlxo1X',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "An Indian Grooming Brand for Men who want to look their best!"
+  },
+  {
+    id: '82',
+    name: 'igp',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/igp-store-1723466570.png',
+    url: 'https://bitli.in/7wz3P0v',
+    categories: ['General', 'Home'],
+    description: "India`s largest multi-category gifting company, providing the best curated collections of festival merchandise"
+  },
+  {
+    id: '83',
+    name: 'MuscleBlaze',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/muscleblaze-store-1629791765.png',
+    url: 'https://bitli.in/aYMWmkR',
+    categories: ['Pharmacy', 'General', 'Health & Fitness'],
+    description: "Indian Brand for Sports Nutrition Supplements"
+  },
+  {
+    id: '84',
+    name: 'Netmeds',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/netmeds-store-1610622260.png',
+    url: 'https://bitli.in/d0r35h3',
+    categories: ['Pharmacy', 'Health & Fitness'],
+    description: "Order Medicines from India's Most Trusted Pharmacy"
+  },
+  {
+    id: '85',
+    name: 'Hyugalife',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/hyugalife-store-1725869177.png',
+    url: 'https://bitli.in/Qdodtz1',
+    categories: ['Pharmacy', 'Health & Fitness'],
+    description: "India's happiest health destination authentic health & wellness products!"
+  },
+  {
+    id: '86',
+    name: 'Amocare',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/amocare-store-1730119825.png',
+    url: 'https://bitli.in/MkibGiy',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Amocare empowers Your Intimate Wellness Journey!"
+  },
+  {
+    id: '87',
+    name: 'Bella Vita Organic',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/bella-vita-store-1634097135.png',
+    url: 'https://bitli.in/31qus4x',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Shop authentic Bella Vita Organic products at the best prices!"
+  },
+  {
+    id: '88',
+    name: 'Fitspire',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/fitspire-admitad-1667540715.jpg',
+    url: 'https://bitli.in/9vYptTO',
+    categories: ['Health & Fitness'],
+    description: "India's Premium 100% Vegan Health and Wellness Family Brand"
+  },
+  {
+    id: '89',
+    name: 'Enamor',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/enamor-store-1680607743.png',
+    url: 'https://bitli.in/MkibGiy',
+    categories: ['Accessories', 'Fashion'],
+    description: "premium lingerie brand in India specializing in high-quality lingerie!"
+  },
+  {
+    id: '90',
+    name: 'Health Kart',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/healthkart-1635502455.png',
+    url: 'https://bitli.in/bA3VbU2',
+    categories: ['Pharmacy'],
+    description: "Best Offers on Whey Proteins, Mass Gainers & more"
+  },
+  {
+    id: '91',
+    name: 'Puer',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/puer-store-1705297498.jpg',
+    url: 'https://bitli.in/0EbIg06',
+    categories: ['Pharmacy'],
+    description: "Championing and helping new moms with the realness of motherhood"
+  },
+  {
+    id: '92',
+    name: 'Shyaway',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/shyaway-store-3-live-new-1701328754.jpg',
+    url: 'https://bitli.in/a8En51t',
+    categories: ['Accessories', 'Fashion'],
+    description: "Brings together the perfect blend of Beauty, Comfort and Affordability!"
+  },
+  {
+    id: '93',
+    name: 'Sonata',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/sonata-store-new-1743597931.png',
+    url: 'https://bitli.in/DUQlLeo',
+    categories: ['General', 'Accessories', 'Fashion'],
+    description: "Buy Watches Online at Great Prices!"
+  },
+  {
+    id: '94',
+    name: 'Fastrack',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/fastrack-store-1724238541.png',
+    url: 'https://bitli.in/tMy7Y52',
+    categories: ['General', 'Accessories', 'Fashion'],
+    description: "Trendy, Fashionable and Affordable Watches!"
+  },
+  {
+    id: '95',
+    name: 'Fyva',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/fyva-store-1744024631.png',
+    url: 'https://bitli.in/8gpdfSh',
+    categories: ['Accessories', 'Fashion'],
+    description: "Fashion Platform That`s Uniquely Sustainable!"
+  },
+  {
+    id: '96',
+    name: 'Timex',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/timex-store-1681984268.png',
+    url: 'https://bitli.in/NyJZFi4',
+    categories: ['General', 'Accessories', 'Fashion'],
+    description: "One of the most trusted brands for wrist watches in India!"
+  },
+  {
+    id: '97',
+    name: 'Health Kart Vitals',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/hk-vitals-1695983147.jpg',
+    url: 'https://bitli.in/dh2MXh0',
+    categories: ['Pharmacy'],
+    description: "India's Trusted Brand for Multivitamins, Amino Acids, Omega & More!"
+  },
+  {
+    id: '98',
+    name: 'Samsung',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/ckssamsunggck-1561466242.png',
+    url: 'https://bitli.in/hhxwwvA',
+    categories: ['Home', "Electronics"],
+    description: "Amazing Deals on Home Appliances"
+  },
+  {
+    id: '99',
+    name: 'Truemeds',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/truemeds-affise-1668159988.png',
+    url: 'https://bitli.in/trH77X5',
+    categories: ['Pharmacy'],
+    description: "Fastest Online Medicine delivery from your trusted online Pharmacy!"
+  },
+  {
+    id: '100',
+    name: 'Vanity Wagon',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/vanity-wagon-store-1739257681.png',
+    url: 'https://bitli.in/pyoShEq',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Discover The Best Beauty Essential Kits & Combos!"
+  },
+  {
+    id: '101',
+    name: 'Times Prime',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/times-prime-new-1704797504.jpg',
+    url: 'https://bitli.in/gnsfn8K',
+    categories: ['General'],
+    description: "Get Incredible Offers on Disney+ Hotstar, SonyLIV, Uber & Many More"
+  },
+  {
+    id: '102',
+    name: 'Clovia',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/clovia-store-1627967240.png',
+    url: 'https://bitli.in/RkbJmR4',
+    categories: ['Accessories', 'Fashion'],
+    description: "Buy Trendy & Affordable Bras, Activewear, Nightwear & more"
+  },
+  {
+    id: '103',
+    name: 'The Ayurveda Co',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/ayurvedaco-store-1626086845.webp',
+    url: 'https://bitli.in/GRnBrqg',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Authentic Ayurvedic Products that will leave your Skin Soft, Glowing and Radiant"
+  },
+  {
+    id: '104',
+    name: 'Shopclues',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/shopclues-store-1660305844.png',
+    url: 'https://bitli.in/gkCDcVS',
+    categories: ['General'],
+    description: "Online Shopping Site in India for Men, Women and Kids"
+  },
+  {
+    id: '105',
+    name: 'Koparo Clean',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/koparo-clean-1712820744.png',
+    url: 'https://bitli.in/jp0kUZZ',
+    categories: ['General', 'Home'],
+    description: "Offers natural, safe and eco-friendly products for home and hygiene!"
+  },
+  {
+    id: '106',
+    name: 'Tiaraa',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/tiaraa-store-1680241064.png',
+    url: 'https://bitli.in/aCbidFT',
+    categories: ['Fashion', 'Accessories'],
+    description: "Exquisite craftmanship of beautiful Jewellery Design!"
+  },
+  {
+    id: '107',
+    name: 'fnp',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/ferns-n-petals-1707118617.png',
+    url: 'https://bitli.in/ANh17FO',
+    categories: ['General'],
+    description: "India's largest online gift shop for Flowers, Cakes, Personalised Gifts & More!"
+  },
+  {
+    id: '108',
+    name: 'Just Herbs',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/justherbs-store-1724656735.jpg',
+    url: 'https://bitli.in/9pNftaz',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Herbal Beauty, Ayurvedic Purity, Natural Glow"
+  },
+  {
+    id: '109',
+    name: 'Bombay Shaving Company',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/bombay-shaving-company-new-2-1710419943.png',
+    url: 'https://bitli.in/WlZUh8u',
+    categories: ['General', 'Fashion', 'Beauty', 'Health & Fitness'],
+    description: "Premium Personal Care and Grooming solutions brand!"
+  },
+  {
+    id: '110',
+    name: 'Kurlon',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/kurlon-store-1725005198.jpg',
+    url: 'https://bitli.in/4efi7D1',
+    categories: ['General', 'Home'],
+    description: "Rest Easy, Live Well with Kurlon!"
+  },
+  {
+    id: '111',
+    name: 'True Elements',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/true-elements-store-1671615192.jpg',
+    url: 'https://bitli.in/kjFzR6R',
+    categories: ['General', 'Home', 'Health & Fitness'],
+    description: "India's 1st Clean Label & 100% Wholegrain certified food brand"
+  },
+  {
+    id: '112',
+    name: 'Swiss Beauty',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/swissbeauty-store-1723635802.png',
+    url: 'https://bitli.in/fmq16zR',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Unleashing Radiant Elegance in Every Shade and Style!"
+  },
+  {
+    id: '113',
+    name: 'Zandu Care',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/emami-zandu-care-store-1677840107.jpg',
+    url: 'https://bitli.in/6X13lyP',
+    categories: ['General', 'Home', 'Health & Fitness'],
+    description: "Buy 100% Natural and Vegetarian Ayurvedic products and Boost your immunity"
+  },
+  {
+    id: '114',
+    name: 'House of Koala',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/house-of-koala-store-1744287709.png',
+    url: 'https://bitli.in/Un6h9jv',
+    categories: ['Fashion'],
+    description: "A Premium Unisex Streetwear Brand!"
+  },
+  {
+    id: '115',
+    name: 'Cleevo',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/cleevo-store-1726570548.png',
+    url: 'https://bitli.in/UgaBSAH',
+    categories: ['General', 'Home'],
+    description: "Cleevo: Clean Living, Naturally!"
+  },
+  {
+    id: '116',
+    name: 'Elver',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/elver-store-1744623904.png',
+    url: 'https://bitli.in/vgIeVmx',
+    categories: ['General', 'Home'],
+    description: "A World Where Music Knows No Bounds!"
+  },
+  {
+    id: '117',
+    name: 'Sugar',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/sugar-store-1744721889.png',
+    url: 'https://bitli.in/LXnh6hg',
+    categories: ['Beauty', 'Fashion'],
+    description: "Bold & High-Performance Makeup!"
+  },
+  {
+    id: '118',
+    name: 'Rasayanam',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/rasayanam-store-1746186602.png ',
+    url: 'https://bitli.in/PMULdJ8',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Ayurvedic Wellness & Supplements at Rasayanam!"
+  },
+  {
+    id: '119',
+    name: 'Personal Touch Skincare',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/personal-touch-skincare-store-1746188787.png',
+    url: 'https://bitli.in/z0P19QT',
+    categories: ['Beauty'],
+    description: "Luxury Skincare Brand Elevating Personal Beauty!"
+  },
+  {
+    id: '120',
+    name: 'La` French',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/la-french-store-1746190573.png',
+    url: 'https://bitli.in/y5A4JsX',
+    categories: ['General', 'Fashion', 'Beauty', 'Health & Fitness'],
+    description: "Luxurious Fragrances with a Unique Blend of Floral and Woody Scents!"
+  },
+  {
+    id: '121',
+    name: 'All Man',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/allman-store-1747634347.png',
+    url: 'https://bitli.in/q53Xr6d',
+    categories: ['Fashion', 'Beauty'],
+    description: "Own Your Groom. Rule Your Day!"
+  },
+  {
+    id: '122',
+    name: 'Biba',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/biba-store-1606474399.png',
+    url: 'https://bitli.in/eLc0rmp',
+    categories: ['General', 'Fashion', 'Beauty'],
+    description: "Celebrate Your Style with Biba's Ethnic Collection!"
+  },
+  {
+    id: '123',
+    name: 'SS Beauty',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/ssbeauty-store-1701763311.png',
+    url: 'https://bitli.in/5QlBMk2',
+    categories: ['Fashion', 'Beauty', 'Health & Fitness'],
+    description: "Luxe Perfumes, Makeup, Skincare & More from the Best Brands!"
+  },
+  {
+    id: '124',
+    name: 'Boat',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/boat-store-1607926097.png',
+    url: 'https://bitli.in/t8JZQYO',
+    categories: ['General', 'Electronics', 'Accessories', 'Home'],
+    description: "Designed in India | World's 5th Largest Wearable Brand"
+  },
+  {
+    id: '125',
+    name: 'Fireboltt',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/fireboltt-store-1704351718.jpg',
+    url: 'https://bitli.in/cryYRxm',
+    categories: ['General', 'Electronics', 'Accessories', 'Home'],
+    description: "Affordable Innovation for the Connected Lifestyle"
+  },
+  {
+    id: '126',
+    name: 'Air India',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/air-india-store-1728906771.png',
+    url: 'https://bitli.in/5I8i53H',
+    categories: ['Travelling'],
+    description: "Air India is the national carrier of India, offering flights to over 700 destinations on its partner network"
+  },
+  {
+    id: '127',
+    name: 'Zop',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/zop-store-1750073420.png',
+    url: 'https://bitli.in/bVvMzkb',
+    categories: ['General'],
+    description: "First of its Kind D2C Discovery Platform!"
+  },
+  {
+    id: '128',
+    name: 'Soulflower',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/soulflower-store-1724674575.png',
+    url: 'https://bitli.in/t7d0bI2',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Pure, Natural, & Effective Skincare Solutions!"
+  },
+  {
+    id: '129',
+    name: 'The Body Shop',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/the-bodyshop-store-1749922822.png',
+    url: 'https://bitli.in/4i9h0zo',
+    categories: ['Fashion', 'Beauty', 'Health & Fitness'],
+    description: "British Cosmetics, Skincare, and Retail Perfume Brand!"
+  },
+  {
+    id: '130',
+    name: 'Veeba',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/veeba-store-1750161512.png',
+    url: 'https://bitli.in/nxiecWO',
+    categories: ['General'],
+    description: "Your Food, Your Rules!"
+  },
+  {
+    id: '131',
+    name: 'Forest Essentials',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/forestessentials-store-1723552221.png',
+    url: 'https://bitli.in/wsHqDT0',
+    categories: ['Fashion', 'Beauty', 'Health & Fitness'],
+    description: "Blending old traditions with new ideas to make you feel fantastic!"
+  },
+  {
+    id: '132',
+    name: 'Bombay Shaving Company',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/bombay-shaving-company-new-2-1710419943.png',
+    url: 'https://bitli.in/WlZUh8u',
+    categories: ['General', 'Fashion', 'Beauty', 'Health & Fitness'],
+    description: "Premium Personal Care and Grooming solutions brand!"
+  },
+  {
+    id: '133',
+    name: 'Reliance Digital',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/reliance-digital-store-1617799608.png',
+    url: 'https://bitli.in/jYZi7Dd',
+    categories: ['General', 'Electronics', 'Accessories', 'Home'],
+    description: "Online Electronic Shopping Store in India!"
+  },
+  {
+    id: '134',
+    name: 'Iba Cosmetics',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/ibacosmetics-store-1750846690.png',
+    url: 'https://bitli.in/6dvT5cS',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Pure Beauty, Powered by Compassion!"
+  },
+  {
+    id: '135',
+    name: 'Hostinger',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/hostinger-store-1667194525.jpg',
+    url: 'https://bitli.in/04K3728',
+    categories: ['General', 'Electronics'],
+    description: "Join 1,278,620 website owners who are building their businesses online"
+  },
+  {
+    id: '136',
+    name: 'BHIM',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/bhim-store-hidden-1752901728.png',
+    url: 'https://bitli.in/Sx6hJfY',
+    categories: ['General', 'Electronics'],
+    description: "Bharat Ka Apna Payments App—a UPI Payment App!"
+  },
 ];
 
 export const getCategories = (): string[] => {
