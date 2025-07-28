@@ -283,12 +283,12 @@ export const storeData: Store[] = [
     description: "Individually handcrafted products using the finest leathers!"
   },
   {
-    id: '29',
-    name: 'Bold Care',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/boldcare-store-1678774861.png',
-    url: 'https://bitli.in/oVQ2kyV',
-    categories: ['General', 'Health & Fitness'],
-    description: "Solutions for the modern man who wants to get more out of life!"
+    id: '36',
+    name: 'Accessorize',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/accessorize-store-1694001416.png',
+    url: 'https://bitli.in/5U8CCQp',
+    categories: ['Beauty', 'Accessories', 'Health & Fitness'],
+    description: "One-Stop destination for Trendy Bags, Jewellery, Hair and Kids Accessories!"
   },
   {
     id: '29',
