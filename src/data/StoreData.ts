@@ -355,12 +355,12 @@ export const storeData: Store[] = [
     description: "No. 1 Paid Survey Surveoo"
   },
   {
-    id: '40',
-    name: 'Pepperfry',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/pepperfry-new-1721737170.png',
-    url: 'https://bitli.in/nu2kYq0',
-    categories: ['General', 'Home'],
-    description: "Furniture, Home Decor, Lamps, Homeware and more at best prices!"
+    id: '45',
+    name: 'Happ Easy Go',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/happyeasygo-store-1726464877.png',
+    url: 'https://bitli.in/HAlFG3n',
+    categories: ['Travelling'],
+    description: "Travel Smart, Travel Happy!"
   },
   {
     id: '40',
