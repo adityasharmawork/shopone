@@ -387,12 +387,12 @@ export const storeData: Store[] = [
     description: "100% Ayurvedic, Vegan & Keto Friendly Nutrition"
   },
   {
-    id: '40',
-    name: 'Pepperfry',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/pepperfry-new-1721737170.png',
-    url: 'https://bitli.in/nu2kYq0',
-    categories: ['General', 'Home'],
-    description: "Furniture, Home Decor, Lamps, Homeware and more at best prices!"
+    id: '49',
+    name: 'Ceazur',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
+    url: 'https://bitli.in/nH4sXfn',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Ceazur: Effortless elegance for the modern gentleman!"
   },
 ];
 
