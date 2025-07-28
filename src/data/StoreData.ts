@@ -411,12 +411,12 @@ export const storeData: Store[] = [
     description: "Vegan, Cruelty and Paraben Free Skincare & Makeup Products"
   },
   {
-    id: '50',
-    name: 'Ceazur',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
-    url: 'https://bitli.in/nH4sXfn',
-    categories: ['Beauty', 'Health & Fitness'],
-    description: "Ceazur: Effortless elegance for the modern gentleman!"
+    id: '52',
+    name: 'My Muse',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/mymuse-store-1695206215.png',
+    url: 'https://bitli.in/j08A7uW',
+    categories: ['General', 'Health & Fitness'],
+    description: "Well-designed, Luxurious & Playful Bedroom Products!"
   },
   {
     id: '50',
