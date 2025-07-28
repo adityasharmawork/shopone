@@ -419,12 +419,12 @@ export const storeData: Store[] = [
     description: "Well-designed, Luxurious & Playful Bedroom Products!"
   },
   {
-    id: '50',
-    name: 'Ceazur',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
-    url: 'https://bitli.in/nH4sXfn',
-    categories: ['Beauty', 'Health & Fitness'],
-    description: "Ceazur: Effortless elegance for the modern gentleman!"
+    id: '53',
+    name: 'W',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/w-for-women-1712900070.png',
+    url: 'https://bitli.in/uySXfzK',
+    categories: ['Beauty', 'Fashion'],
+    description: "Offers work and casual wear for modern Indian women with an independent mindset!"
   },
   {
     id: '50',
