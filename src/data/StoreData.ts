@@ -331,12 +331,12 @@ export const storeData: Store[] = [
     description: "Explore Beyond Limits"
   },
   {
-    id: '40',
-    name: 'Pepperfry',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/pepperfry-new-1721737170.png',
-    url: 'https://bitli.in/nu2kYq0',
-    categories: ['General', 'Home'],
-    description: "Furniture, Home Decor, Lamps, Homeware and more at best prices!"
+    id: '42',
+    name: 'Upakarma Ayurveda',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/upakarmaayurveda-store-1724224879.png',
+    url: 'https://bitli.in/8Wfu5vi',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Pure Ayurvedic Wellness: Revitalize, Strengthen, Balance, and Restore!"
   },
   {
     id: '40',
