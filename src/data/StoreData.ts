@@ -538,6 +538,30 @@ export const storeData: Store[] = [
     categories: ['Pharmacy', 'Beauty', 'Health & Fitness'],
     description: "Ancient Ayurveda, Modern Wellness!"
   },
+  {
+    id: '68',
+    name: 'Three60 Wellness',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/three60wellness-store-1740478546.png',
+    url: 'https://bitli.in/DyqFo8u',
+    categories: ['Pharmacy', 'Beauty', 'Health & Fitness'],
+    description: "Holistic wellness, in your hands, anytime, anywhere!"
+  },
+  {
+    id: '67',
+    name: 'Dr. Vaidya`s',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/drvaidyas-store-1740467922.png',
+    url: 'https://bitli.in/mfZATTN',
+    categories: ['Pharmacy', 'Beauty', 'Health & Fitness'],
+    description: "Ancient Ayurveda, Modern Wellness!"
+  },
+  {
+    id: '67',
+    name: 'Dr. Vaidya`s',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/drvaidyas-store-1740467922.png',
+    url: 'https://bitli.in/mfZATTN',
+    categories: ['Pharmacy', 'Beauty', 'Health & Fitness'],
+    description: "Ancient Ayurveda, Modern Wellness!"
+  },
 ];
 
 export const getCategories = (): string[] => {
