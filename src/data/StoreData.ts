@@ -219,12 +219,12 @@ export const storeData: Store[] = [
     description: "Leading Online Travel Booking Brand at Lowest Airfare"
   },
   {
-    id: '25',
-    name: 'The Man Company',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/themancompany-direct-new-1702282942.png',
-    url: 'https://bitli.in/P4cRd1B',
-    categories: ['General', 'Beauty'],
-    description: "Complete Range of Men's Grooming Products"
+    id: '28',
+    name: 'Daily Objects',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/daily-objects-store-1674195083.jpg',
+    url: 'https://bitli.in/r5z1q6A',
+    categories: ['Electronics', 'Accessories'],
+    description: "India's Largest Collection of Designer, Mobile & Tech Accessories"
   },
   {
     id: '25',
