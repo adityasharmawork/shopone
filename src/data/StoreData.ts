@@ -203,12 +203,12 @@ export const storeData: Store[] = [
     description: "Complete Range of Men's Grooming Products"
   },
   {
-    id: '25',
-    name: 'The Man Company',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/themancompany-direct-new-1702282942.png',
-    url: 'https://bitli.in/P4cRd1B',
-    categories: ['General', 'Beauty'],
-    description: "Complete Range of Men's Grooming Products"
+    id: '26',
+    name: 'Udemy',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/exclusive-udemy-1579676706.png',
+    url: 'https://bitli.in/w7q5dih',
+    categories: ['Learning'],
+    description: "Leading Global Platform for Online Learning"
   },
   {
     id: '25',
