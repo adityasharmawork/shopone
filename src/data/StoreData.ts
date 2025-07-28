@@ -259,12 +259,12 @@ export const storeData: Store[] = [
     description: "Curating the most enchanting women's clothing, where fashion meets tradition!"
   },
   {
-    id: '29',
-    name: 'Bold Care',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/boldcare-store-1678774861.png',
-    url: 'https://bitli.in/oVQ2kyV',
-    categories: ['General', 'Health & Fitness'],
-    description: "Solutions for the modern man who wants to get more out of life!"
+    id: '33',
+    name: 'MakeMyTrip',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/makemytrip-live-1657716572.png',
+    url: 'https://bitli.in/ivZ80pH',
+    categories: ['Hotels', 'Travelling'],
+    description: "Travel Made Easy"
   },
   {
     id: '29',
