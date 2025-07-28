@@ -207,8 +207,8 @@ export const storeData: Store[] = [
     name: 'Udemy',
     logo: 'https://asset20.ckassets.com/resources/image/stores/exclusive-udemy-1579676706.png',
     url: 'https://bitli.in/w7q5dih',
-    categories: ['Learning'],
-    description: "Leading Global Platform for Online Learning"
+    categories: ['Education'],
+    description: "Leading Global Platform for Online Education"
   },
   {
     id: '27',
@@ -399,7 +399,7 @@ export const storeData: Store[] = [
     name: 'Apna',
     logo: 'https://asset20.ckassets.com/resources/image/stores/apna-store-1728465433.png',
     url: 'https://bitli.in/cgvLj1F',
-    categories: ['General'],
+    categories: ['General', 'Education'],
     description: "Hire Top Talent in 48 Hours with Apna!"
   },
   {
@@ -807,7 +807,7 @@ export const storeData: Store[] = [
     name: 'Times Prime',
     logo: 'https://asset20.ckassets.com/resources/image/stores/times-prime-new-1704797504.jpg',
     url: 'https://bitli.in/gnsfn8K',
-    categories: ['General', 'Learning'],
+    categories: ['General', 'Education'],
     description: "Get Incredible Offers on Disney+ Hotstar, SonyLIV, Uber & Many More"
   },
   {
