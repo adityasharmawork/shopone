@@ -394,6 +394,70 @@ export const storeData: Store[] = [
     categories: ['Beauty', 'Health & Fitness'],
     description: "Ceazur: Effortless elegance for the modern gentleman!"
   },
+  {
+    id: '50',
+    name: 'Ceazur',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
+    url: 'https://bitli.in/nH4sXfn',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Ceazur: Effortless elegance for the modern gentleman!"
+  },
+  {
+    id: '50',
+    name: 'Ceazur',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
+    url: 'https://bitli.in/nH4sXfn',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Ceazur: Effortless elegance for the modern gentleman!"
+  },
+  {
+    id: '50',
+    name: 'Ceazur',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
+    url: 'https://bitli.in/nH4sXfn',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Ceazur: Effortless elegance for the modern gentleman!"
+  },
+  {
+    id: '50',
+    name: 'Ceazur',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
+    url: 'https://bitli.in/nH4sXfn',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Ceazur: Effortless elegance for the modern gentleman!"
+  },
+  {
+    id: '50',
+    name: 'Ceazur',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
+    url: 'https://bitli.in/nH4sXfn',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Ceazur: Effortless elegance for the modern gentleman!"
+  },
+  {
+    id: '50',
+    name: 'Ceazur',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
+    url: 'https://bitli.in/nH4sXfn',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Ceazur: Effortless elegance for the modern gentleman!"
+  },
+  {
+    id: '50',
+    name: 'Ceazur',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
+    url: 'https://bitli.in/nH4sXfn',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Ceazur: Effortless elegance for the modern gentleman!"
+  },
+  {
+    id: '50',
+    name: 'Ceazur',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
+    url: 'https://bitli.in/nH4sXfn',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Ceazur: Effortless elegance for the modern gentleman!"
+  },
 ];
 
 export const getCategories = (): string[] => {
