@@ -427,12 +427,12 @@ export const storeData: Store[] = [
     description: "Offers work and casual wear for modern Indian women with an independent mindset!"
   },
   {
-    id: '50',
-    name: 'Ceazur',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
-    url: 'https://bitli.in/nH4sXfn',
-    categories: ['Beauty', 'Health & Fitness'],
-    description: "Ceazur: Effortless elegance for the modern gentleman!"
+    id: '54',
+    name: 'Neurogum',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/neurogum-store-1730204249.png',
+    url: 'https://bitli.in/YIjiK1p',
+    categories: ['General', 'Pharmacy'],
+    description: "Unlock your brain's potential, one chew at a time!"
   },
   {
     id: '50',
