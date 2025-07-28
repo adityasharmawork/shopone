@@ -482,6 +482,62 @@ export const storeData: Store[] = [
     categories: ['General', 'Electronics', 'Accessories'],
     description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
   },
+  {
+    id: '60',
+    name: 'Noise',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png',
+    url: 'https://bitli.in/iBnrK7D',
+    categories: ['General', 'Electronics', 'Accessories'],
+    description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
+  },
+  {
+    id: '60',
+    name: 'Noise',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png',
+    url: 'https://bitli.in/iBnrK7D',
+    categories: ['General', 'Electronics', 'Accessories'],
+    description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
+  },
+  {
+    id: '60',
+    name: 'Noise',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png',
+    url: 'https://bitli.in/iBnrK7D',
+    categories: ['General', 'Electronics', 'Accessories'],
+    description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
+  },
+  {
+    id: '60',
+    name: 'Noise',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png',
+    url: 'https://bitli.in/iBnrK7D',
+    categories: ['General', 'Electronics', 'Accessories'],
+    description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
+  },
+  {
+    id: '60',
+    name: 'Noise',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png',
+    url: 'https://bitli.in/iBnrK7D',
+    categories: ['General', 'Electronics', 'Accessories'],
+    description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
+  },
+  {
+    id: '60',
+    name: 'Noise',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png',
+    url: 'https://bitli.in/iBnrK7D',
+    categories: ['General', 'Electronics', 'Accessories'],
+    description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
+  },
+  {
+    id: '60',
+    name: 'Noise',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png',
+    url: 'https://bitli.in/iBnrK7D',
+    categories: ['General', 'Electronics', 'Accessories'],
+    description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
+  },
 ];
 
 export const getCategories = (): string[] => {
