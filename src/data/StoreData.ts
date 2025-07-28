@@ -403,12 +403,12 @@ export const storeData: Store[] = [
     description: "Hire Top Talent in 48 Hours with Apna!"
   },
   {
-    id: '50',
-    name: 'Ceazur',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
-    url: 'https://bitli.in/nH4sXfn',
+    id: '51',
+    name: 'Plum',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/plum-goodness-1594987353.png',
+    url: 'https://bitli.in/04TOMlk',
     categories: ['Beauty', 'Health & Fitness'],
-    description: "Ceazur: Effortless elegance for the modern gentleman!"
+    description: "Vegan, Cruelty and Paraben Free Skincare & Makeup Products"
   },
   {
     id: '50',
