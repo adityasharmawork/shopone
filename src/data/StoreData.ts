@@ -251,12 +251,12 @@ export const storeData: Store[] = [
     description: "Medibuddy Platinum Health Checkup Package!"
   },
   {
-    id: '29',
-    name: 'Bold Care',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/boldcare-store-1678774861.png',
-    url: 'https://bitli.in/oVQ2kyV',
-    categories: ['General', 'Health & Fitness'],
-    description: "Solutions for the modern man who wants to get more out of life!"
+    id: '32',
+    name: 'Libas',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/libas-store-1639484758.png',
+    url: 'https://bitli.in/V3X8XM2',
+    categories: ['Fashion'],
+    description: "Curating the most enchanting women's clothing, where fashion meets tradition!"
   },
   {
     id: '29',
