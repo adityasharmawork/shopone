@@ -523,12 +523,12 @@ export const storeData: Store[] = [
     description: "Etihad - Renowned for its Luxury First-Class Suites!"
   },
   {
-    id: '60',
-    name: 'Noise',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png',
-    url: 'https://bitli.in/iBnrK7D',
-    categories: ['General', 'Electronics', 'Accessories'],
-    description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
+    id: '66',
+    name: 'Sadhev',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/sadhev-store-1724839342.png',
+    url: 'https://bitli.in/2MhLnS6',
+    categories: ['General', 'Home', 'Beauty', 'Health & Fitness'],
+    description: "Experience Timeless Beauty Through the Art of Ayurveda!"
   },
   {
     id: '60',
