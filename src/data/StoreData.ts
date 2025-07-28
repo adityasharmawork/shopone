@@ -555,12 +555,12 @@ export const storeData: Store[] = [
     description: "Explore kids and baby products galore at FirstCry, the Biggest Store for Little Ones."
   },
   {
-    id: '67',
-    name: 'Dr. Vaidya`s',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/drvaidyas-store-1740467922.png',
-    url: 'https://bitli.in/mfZATTN',
-    categories: ['Pharmacy', 'Beauty', 'Health & Fitness'],
-    description: "Ancient Ayurveda, Modern Wellness!"
+    id: '70',
+    name: 'PlatinumRx',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/platinumrx-store-1741600241.png',
+    url: 'https://bitli.in/28DnH98',
+    categories: ['Pharmacy', 'Health & Fitness'],
+    description: "Affordable & Genuine Substitutes, Delivered to Your Doorstep!"
   },
 ];
 
