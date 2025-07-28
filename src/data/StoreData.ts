@@ -323,12 +323,12 @@ export const storeData: Store[] = [
     description: "Redefining Global Fashion through Quality and Affordability!"
   },
   {
-    id: '40',
-    name: 'Pepperfry',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/pepperfry-new-1721737170.png',
-    url: 'https://bitli.in/nu2kYq0',
-    categories: ['General', 'Home'],
-    description: "Furniture, Home Decor, Lamps, Homeware and more at best prices!"
+    id: '41',
+    name: 'Acer',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/acer-new-1724156305.png',
+    url: 'https://bitli.in/ceO4CtC',
+    categories: ['Electronics'],
+    description: "Explore Beyond Limits"
   },
   {
     id: '40',
