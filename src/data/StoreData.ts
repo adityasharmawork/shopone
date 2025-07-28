@@ -371,12 +371,12 @@ export const storeData: Store[] = [
     description: "Tailored Comfort, Perfected for Your Best Night’s Sleep!"
   },
   {
-    id: '40',
-    name: 'Pepperfry',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/pepperfry-new-1721737170.png',
-    url: 'https://bitli.in/nu2kYq0',
-    categories: ['General', 'Home'],
-    description: "Furniture, Home Decor, Lamps, Homeware and more at best prices!"
+    id: '47',
+    name: 'Kiro Clean Beauty',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/kirobeauty-store-1726817414.png',
+    url: 'https://bitli.in/iMF8VvN',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "Clean Beauty, High Impact!"
   },
   {
     id: '40',
