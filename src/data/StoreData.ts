@@ -515,12 +515,12 @@ export const storeData: Store[] = [
     description: "Empowering careers with affordable tech courses!"
   },
   {
-    id: '60',
-    name: 'Noise',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png',
-    url: 'https://bitli.in/iBnrK7D',
-    categories: ['General', 'Electronics', 'Accessories'],
-    description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
+    id: '65',
+    name: 'Etihad Airways',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/etihad-airways-store-1745930697.png',
+    url: 'https://bitli.in/5r1ynZf',
+    categories: ['Travelling'],
+    description: "Etihad - Renowned for its Luxury First-Class Suites!"
   },
   {
     id: '60',
