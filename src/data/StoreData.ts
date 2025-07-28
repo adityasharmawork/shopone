@@ -235,12 +235,12 @@ export const storeData: Store[] = [
     description: "Solutions for the modern man who wants to get more out of life!"
   },
   {
-    id: '29',
-    name: 'Bold Care',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/boldcare-store-1678774861.png',
-    url: 'https://bitli.in/oVQ2kyV',
-    categories: ['General', 'Health & Fitness'],
-    description: "Solutions for the modern man who wants to get more out of life!"
+    id: '30',
+    name: 'Nike',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/nike-offers-1591191610.png',
+    url: 'https://bitli.in/I53v57H',
+    categories: ['General', 'Accessories'],
+    description: "Casual shoes & sports shoes for men, women & kids"
   },
   {
     id: '29',
