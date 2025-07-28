@@ -291,12 +291,12 @@ export const storeData: Store[] = [
     description: "One-Stop destination for Trendy Bags, Jewellery, Hair and Kids Accessories!"
   },
   {
-    id: '29',
-    name: 'Bold Care',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/boldcare-store-1678774861.png',
-    url: 'https://bitli.in/oVQ2kyV',
-    categories: ['General', 'Health & Fitness'],
-    description: "Solutions for the modern man who wants to get more out of life!"
+    id: '37',
+    name: 'Infire',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/infire-store-1697525945.jpg',
+    url: 'https://bitli.in/87hQ6On',
+    categories: ['Electronics'],
+    description: "An Indian electronic brand that offers a wide range of innovative products!"
   },
   {
     id: '29',
