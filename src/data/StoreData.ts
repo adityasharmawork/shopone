@@ -531,12 +531,12 @@ export const storeData: Store[] = [
     description: "Experience Timeless Beauty Through the Art of Ayurveda!"
   },
   {
-    id: '60',
-    name: 'Noise',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png',
-    url: 'https://bitli.in/iBnrK7D',
-    categories: ['General', 'Electronics', 'Accessories'],
-    description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
+    id: '67',
+    name: 'Dr. Vaidya`s',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/drvaidyas-store-1740467922.png',
+    url: 'https://bitli.in/mfZATTN',
+    categories: ['Pharmacy', 'Beauty', 'Health & Fitness'],
+    description: "Ancient Ayurveda, Modern Wellness!"
   },
 ];
 
