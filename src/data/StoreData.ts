@@ -547,12 +547,12 @@ export const storeData: Store[] = [
     description: "Holistic wellness, in your hands, anytime, anywhere!"
   },
   {
-    id: '67',
-    name: 'Dr. Vaidya`s',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/drvaidyas-store-1740467922.png',
-    url: 'https://bitli.in/mfZATTN',
-    categories: ['Pharmacy', 'Beauty', 'Health & Fitness'],
-    description: "Ancient Ayurveda, Modern Wellness!"
+    id: '69',
+    name: 'Firstcry',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/firstcry-1658475993.png',
+    url: 'https://bitli.in/hnqUqQf',
+    categories: ['Pharmacy', 'Home', 'General', 'Beauty', 'Health & Fitness'],
+    description: "Explore kids and baby products galore at FirstCry, the Biggest Store for Little Ones."
   },
   {
     id: '67',
