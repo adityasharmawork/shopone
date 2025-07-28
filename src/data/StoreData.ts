@@ -435,12 +435,12 @@ export const storeData: Store[] = [
     description: "Unlock your brain's potential, one chew at a time!"
   },
   {
-    id: '50',
-    name: 'Ceazur',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
-    url: 'https://bitli.in/nH4sXfn',
-    categories: ['Beauty', 'Health & Fitness'],
-    description: "Ceazur: Effortless elegance for the modern gentleman!"
+    id: '55',
+    name: 'Angel One',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/angel-one-1695382051.png',
+    url: 'https://bitli.in/J2TaGiz',
+    categories: ['General'],
+    description: "Empowering Investors, Enabling Financial Growth Together!"
   },
   {
     id: '50',
