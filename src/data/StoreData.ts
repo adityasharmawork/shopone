@@ -188,14 +188,6 @@ export const storeData: Store[] = [
   },
   {
     id: '24',
-    name: 'Clovia',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/clovia-store-1627967240.png',
-    url: 'https://bitli.in/jHjMVmD',
-    categories: ['Fashion'],
-    description: 'Buy Trendy & Affordable Bras, Activewear, Nightwear & more'
-  },
-  {
-    id: '25',
     name: 'The Man Company',
     logo: 'https://asset20.ckassets.com/resources/image/stores/themancompany-direct-new-1702282942.png',
     url: 'https://bitli.in/P4cRd1B',
@@ -203,7 +195,7 @@ export const storeData: Store[] = [
     description: "Complete Range of Men's Grooming Products"
   },
   {
-    id: '26',
+    id: '25',
     name: 'Udemy',
     logo: 'https://asset20.ckassets.com/resources/image/stores/exclusive-udemy-1579676706.png',
     url: 'https://bitli.in/w7q5dih',
@@ -211,7 +203,7 @@ export const storeData: Store[] = [
     description: "Leading Global Platform for Online Education"
   },
   {
-    id: '27',
+    id: '26',
     name: 'Goibibo',
     logo: 'https://asset20.ckassets.com/resources/image/stores/goibibo-1657700314.png',
     url: 'https://bitli.in/8VYlg3q',
@@ -219,7 +211,7 @@ export const storeData: Store[] = [
     description: "Leading Online Travel Booking Brand at Lowest Airfare"
   },
   {
-    id: '28',
+    id: '27',
     name: 'Daily Objects',
     logo: 'https://asset20.ckassets.com/resources/image/stores/daily-objects-store-1674195083.jpg',
     url: 'https://bitli.in/r5z1q6A',
@@ -227,7 +219,7 @@ export const storeData: Store[] = [
     description: "India's Largest Collection of Designer, Mobile & Tech Accessories"
   },
   {
-    id: '29',
+    id: '28',
     name: 'Bold Care',
     logo: 'https://asset20.ckassets.com/resources/image/stores/boldcare-store-1678774861.png',
     url: 'https://bitli.in/oVQ2kyV',
@@ -235,7 +227,7 @@ export const storeData: Store[] = [
     description: "Solutions for the modern man who wants to get more out of life!"
   },
   {
-    id: '30',
+    id: '29',
     name: 'Nike',
     logo: 'https://asset20.ckassets.com/resources/image/stores/nike-offers-1591191610.png',
     url: 'https://bitli.in/I53v57H',
@@ -243,7 +235,7 @@ export const storeData: Store[] = [
     description: "Casual shoes & sports shoes for men, women & kids"
   },
   {
-    id: '31',
+    id: '30',
     name: 'Medibuddy',
     logo: 'https://asset20.ckassets.com/resources/image/stores/medibuddy-labs-1637855791.jpg',
     url: 'https://bitli.in/enll6iI',
@@ -251,7 +243,7 @@ export const storeData: Store[] = [
     description: "Medibuddy Platinum Health Checkup Package!"
   },
   {
-    id: '32',
+    id: '31',
     name: 'Libas',
     logo: 'https://asset20.ckassets.com/resources/image/stores/libas-store-1639484758.png',
     url: 'https://bitli.in/V3X8XM2',
@@ -259,7 +251,7 @@ export const storeData: Store[] = [
     description: "Curating the most enchanting women's clothing, where fashion meets tradition!"
   },
   {
-    id: '33',
+    id: '32',
     name: 'MakeMyTrip',
     logo: 'https://asset20.ckassets.com/resources/image/stores/makemytrip-live-1657716572.png',
     url: 'https://bitli.in/ivZ80pH',
@@ -267,7 +259,7 @@ export const storeData: Store[] = [
     description: "Travel Made Easy"
   },
   {
-    id: '34',
+    id: '33',
     name: 'Body Cupid',
     logo: 'https://asset20.ckassets.com/resources/image/stores/body-cupid-store-1631086884.png',
     url: 'https://bitli.in/ay67E6j',
@@ -275,7 +267,7 @@ export const storeData: Store[] = [
     description: "Premium and Natural Skincare Products"
   },
   {
-    id: '35',
+    id: '34',
     name: 'Hidesign',
     logo: 'https://asset20.ckassets.com/resources/image/stores/hidesign-store-1691473816.png',
     url: 'https://bitli.in/vteQMBG',
@@ -283,7 +275,7 @@ export const storeData: Store[] = [
     description: "Individually handcrafted products using the finest leathers!"
   },
   {
-    id: '36',
+    id: '35',
     name: 'Accessorize',
     logo: 'https://asset20.ckassets.com/resources/image/stores/accessorize-store-1694001416.png',
     url: 'https://bitli.in/5U8CCQp',
@@ -291,7 +283,7 @@ export const storeData: Store[] = [
     description: "One-Stop destination for Trendy Bags, Jewellery, Hair and Kids Accessories!"
   },
   {
-    id: '37',
+    id: '36',
     name: 'Infire',
     logo: 'https://asset20.ckassets.com/resources/image/stores/infire-store-1697525945.jpg',
     url: 'https://bitli.in/87hQ6On',
@@ -299,7 +291,7 @@ export const storeData: Store[] = [
     description: "An Indian electronic brand that offers a wide range of innovative products!"
   },
   {
-    id: '38',
+    id: '37',
     name: 'Blissclub',
     logo: 'https://asset20.ckassets.com/resources/image/stores/bliss-club-1709812822.png',
     url: 'https://bitli.in/ofXF1zX',
@@ -307,7 +299,7 @@ export const storeData: Store[] = [
     description: "Engineered for Performance - Bliss Club Activewear Popular for Fit & Comfort!"
   },
   {
-    id: '39',
+    id: '38',
     name: 'Pepperfry',
     logo: 'https://asset20.ckassets.com/resources/image/stores/pepperfry-new-1721737170.png',
     url: 'https://bitli.in/nu2kYq0',
@@ -315,7 +307,7 @@ export const storeData: Store[] = [
     description: "Furniture, Home Decor, Lamps, Homeware and more at best prices!"
   },
   {
-    id: '40',
+    id: '39',
     name: 'Uniqlo',
     logo: 'https://asset20.ckassets.com/resources/image/stores/uniqlo-store-1723805465.png',
     url: 'https://bitli.in/eWekQtu',
@@ -323,7 +315,7 @@ export const storeData: Store[] = [
     description: "Redefining Global Fashion through Quality and Affordability!"
   },
   {
-    id: '41',
+    id: '40',
     name: 'Acer',
     logo: 'https://asset20.ckassets.com/resources/image/stores/acer-new-1724156305.png',
     url: 'https://bitli.in/ceO4CtC',
@@ -331,7 +323,7 @@ export const storeData: Store[] = [
     description: "Explore Beyond Limits"
   },
   {
-    id: '42',
+    id: '41',
     name: 'Upakarma Ayurveda',
     logo: 'https://asset20.ckassets.com/resources/image/stores/upakarmaayurveda-store-1724224879.png',
     url: 'https://bitli.in/8Wfu5vi',
@@ -339,7 +331,7 @@ export const storeData: Store[] = [
     description: "Pure Ayurvedic Wellness: Revitalize, Strengthen, Balance, and Restore!"
   },
   {
-    id: '43',
+    id: '42',
     name: 'Cleartrip',
     logo: 'https://asset20.ckassets.com/resources/image/stores/cleartrip-admitad-1664859262.jpg',
     url: 'https://bitli.in/TQp5vw8',
@@ -347,7 +339,7 @@ export const storeData: Store[] = [
     description: "Simplifying your travel experience with seamless booking of flights, hotels, and more!"
   },
   {
-    id: '44',
+    id: '43',
     name: 'Surveoo',
     logo: 'https://asset20.ckassets.com/resources/image/stores/surveo-us-store-1725351118.png',
     url: 'https://bitli.in/S7FGloJ',
@@ -355,7 +347,7 @@ export const storeData: Store[] = [
     description: "No. 1 Paid Survey Surveoo"
   },
   {
-    id: '45',
+    id: '44',
     name: 'Happ Easy Go',
     logo: 'https://asset20.ckassets.com/resources/image/stores/happyeasygo-store-1726464877.png',
     url: 'https://bitli.in/HAlFG3n',
@@ -363,7 +355,7 @@ export const storeData: Store[] = [
     description: "Travel Smart, Travel Happy!"
   },
   {
-    id: '46',
+    id: '45',
     name: 'Sleepwell',
     logo: 'https://asset20.ckassets.com/resources/image/stores/sleepwell-store-1726034632.png',
     url: 'https://bitli.in/AofZ3Zv',
@@ -371,7 +363,7 @@ export const storeData: Store[] = [
     description: "Tailored Comfort, Perfected for Your Best Night’s Sleep!"
   },
   {
-    id: '47',
+    id: '46',
     name: 'Kiro Clean Beauty',
     logo: 'https://asset20.ckassets.com/resources/image/stores/kirobeauty-store-1726817414.png',
     url: 'https://bitli.in/iMF8VvN',
@@ -379,7 +371,7 @@ export const storeData: Store[] = [
     description: "Clean Beauty, High Impact!"
   },
   {
-    id: '48',
+    id: '47',
     name: 'Kapiva',
     logo: 'https://asset20.ckassets.com/resources/image/stores/kapiva-store-live-1644313508.png',
     url: 'https://bitli.in/5m8nv4c',
@@ -387,7 +379,7 @@ export const storeData: Store[] = [
     description: "100% Ayurvedic, Vegan & Keto Friendly Nutrition"
   },
   {
-    id: '49',
+    id: '48',
     name: 'Ceazur',
     logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
     url: 'https://bitli.in/nH4sXfn',
@@ -395,7 +387,7 @@ export const storeData: Store[] = [
     description: "Ceazur: Effortless elegance for the modern gentleman!"
   },
   {
-    id: '50',
+    id: '49',
     name: 'Apna',
     logo: 'https://asset20.ckassets.com/resources/image/stores/apna-store-1728465433.png',
     url: 'https://bitli.in/cgvLj1F',
@@ -403,7 +395,7 @@ export const storeData: Store[] = [
     description: "Hire Top Talent in 48 Hours with Apna!"
   },
   {
-    id: '51',
+    id: '50',
     name: 'Plum',
     logo: 'https://asset20.ckassets.com/resources/image/stores/plum-goodness-1594987353.png',
     url: 'https://bitli.in/04TOMlk',
@@ -411,7 +403,7 @@ export const storeData: Store[] = [
     description: "Vegan, Cruelty and Paraben Free Skincare & Makeup Products"
   },
   {
-    id: '52',
+    id: '51',
     name: 'My Muse',
     logo: 'https://asset20.ckassets.com/resources/image/stores/mymuse-store-1695206215.png',
     url: 'https://bitli.in/j08A7uW',
@@ -419,7 +411,7 @@ export const storeData: Store[] = [
     description: "Well-designed, Luxurious & Playful Bedroom Products!"
   },
   {
-    id: '53',
+    id: '52',
     name: 'W',
     logo: 'https://asset20.ckassets.com/resources/image/stores/w-for-women-1712900070.png',
     url: 'https://bitli.in/uySXfzK',
@@ -427,7 +419,7 @@ export const storeData: Store[] = [
     description: "Offers work and casual wear for modern Indian women with an independent mindset!"
   },
   {
-    id: '54',
+    id: '53',
     name: 'Neurogum',
     logo: 'https://asset20.ckassets.com/resources/image/stores/neurogum-store-1730204249.png',
     url: 'https://bitli.in/YIjiK1p',
@@ -435,7 +427,7 @@ export const storeData: Store[] = [
     description: "Unlock your brain's potential, one chew at a time!"
   },
   {
-    id: '55',
+    id: '54',
     name: 'Angel One',
     logo: 'https://asset20.ckassets.com/resources/image/stores/angel-one-1695382051.png',
     url: 'https://bitli.in/J2TaGiz',
@@ -443,7 +435,7 @@ export const storeData: Store[] = [
     description: "Empowering Investors, Enabling Financial Growth Together!"
   },
   {
-    id: '56',
+    id: '55',
     name: 'Portronics',
     logo: 'https://asset20.ckassets.com/resources/image/stores/portronics-1667193293.png',
     url: 'https://bitli.in/pOwX6r3',
@@ -451,7 +443,7 @@ export const storeData: Store[] = [
     description: "Trusted brand in Speakers, Headphones, Fitness trackers & More"
   },
   {
-    id: '57',
+    id: '56',
     name: 'Redcliffe Labs',
     logo: 'https://asset20.ckassets.com/resources/image/stores/redclifflabs-store-1734083102.png',
     url: 'https://bitli.in/xpHa78e',
@@ -459,7 +451,7 @@ export const storeData: Store[] = [
     description: "Redcliffe Labs: Accurate insights, healthier tomorrows!"
   },
   {
-    id: '58',
+    id: '57',
     name: 'Mokobara',
     logo: 'https://asset20.ckassets.com/resources/image/stores/mokobara-store-1735818185.png',
     url: 'https://bitli.in/21rat4t',
@@ -467,7 +459,7 @@ export const storeData: Store[] = [
     description: "Mokobara Elevates the Joy of Travel for Everyone!"
   },
   {
-    id: '59',
+    id: '58',
     name: 'Expedia',
     logo: 'https://asset20.ckassets.com/resources/image/stores/expedia-store-1730893396.png',
     url: 'https://bitli.in/vIQyw39',
@@ -475,7 +467,7 @@ export const storeData: Store[] = [
     description: "Discover the World with Best Travel Experience!"
   },
   {
-    id: '60',
+    id: '59',
     name: 'Noise',
     logo: 'https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png',
     url: 'https://bitli.in/iBnrK7D',
@@ -483,7 +475,7 @@ export const storeData: Store[] = [
     description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
   },
   {
-    id: '61',
+    id: '60',
     name: 'Kesar Co',
     logo: 'https://asset20.ckassets.com/resources/image/stores/kesarco-store-1682593527.png',
     url: 'https://bitli.in/lGmOAlD',
@@ -491,7 +483,7 @@ export const storeData: Store[] = [
     description: "Premium, Authentic & Indigenous food specialities!"
   },
   {
-    id: '62',
+    id: '61',
     name: 'Hotels Com',
     logo: 'https://asset20.ckassets.com/resources/image/stores/hotels-india-store-1734697776.png',
     url: 'https://bitli.in/9ypf8Uz',
@@ -499,7 +491,7 @@ export const storeData: Store[] = [
     description: "Hassle-free hotel bookings and unbeatable deals worldwide!"
   },
   {
-    id: '63',
+    id: '62',
     name: 'Indigo',
     logo: 'https://asset20.ckassets.com/resources/image/stores/indigohotels2-1750325350.png',
     url: 'https://bitli.in/SU4PkWU',
@@ -507,7 +499,7 @@ export const storeData: Store[] = [
     description: "Hotel chain offering Stylish and Affordable Accommodations with Modern Amenities!"
   },
   {
-    id: '64',
+    id: '63',
     name: 'Guvi',
     logo: 'https://asset20.ckassets.com/resources/image/stores/guviaiml-store-1745930565.png',
     url: 'https://bitli.in/uYn73H3',
@@ -515,7 +507,7 @@ export const storeData: Store[] = [
     description: "Empowering careers with affordable tech courses!"
   },
   {
-    id: '65',
+    id: '64',
     name: 'Etihad Airways',
     logo: 'https://asset20.ckassets.com/resources/image/stores/etihad-airways-store-1745930697.png',
     url: 'https://bitli.in/5r1ynZf',
@@ -523,7 +515,7 @@ export const storeData: Store[] = [
     description: "Etihad - Renowned for its Luxury First-Class Suites!"
   },
   {
-    id: '66',
+    id: '65',
     name: 'Sadhev',
     logo: 'https://asset20.ckassets.com/resources/image/stores/sadhev-store-1724839342.png',
     url: 'https://bitli.in/2MhLnS6',
@@ -531,7 +523,7 @@ export const storeData: Store[] = [
     description: "Experience Timeless Beauty Through the Art of Ayurveda!"
   },
   {
-    id: '67',
+    id: '66',
     name: 'Dr. Vaidya`s',
     logo: 'https://asset20.ckassets.com/resources/image/stores/drvaidyas-store-1740467922.png',
     url: 'https://bitli.in/mfZATTN',
@@ -539,7 +531,7 @@ export const storeData: Store[] = [
     description: "Ancient Ayurveda, Modern Wellness!"
   },
   {
-    id: '68',
+    id: '67',
     name: 'Three60 Wellness',
     logo: 'https://asset20.ckassets.com/resources/image/stores/three60wellness-store-1740478546.png',
     url: 'https://bitli.in/DyqFo8u',
@@ -547,7 +539,7 @@ export const storeData: Store[] = [
     description: "Holistic wellness, in your hands, anytime, anywhere!"
   },
   {
-    id: '69',
+    id: '68',
     name: 'Firstcry',
     logo: 'https://asset20.ckassets.com/resources/image/stores/firstcry-1658475993.png',
     url: 'https://bitli.in/hnqUqQf',
@@ -555,7 +547,7 @@ export const storeData: Store[] = [
     description: "Explore kids and baby products galore at FirstCry, the Biggest Store for Little Ones."
   },
   {
-    id: '70',
+    id: '69',
     name: 'PlatinumRx',
     logo: 'https://asset20.ckassets.com/resources/image/stores/platinumrx-store-1741600241.png',
     url: 'https://bitli.in/28DnH98',
@@ -563,7 +555,7 @@ export const storeData: Store[] = [
     description: "Affordable & Genuine Substitutes, Delivered to Your Doorstep!"
   },
   {
-    id: '71',
+    id: '70',
     name: 'Gabit',
     logo: 'https://asset20.ckassets.com/resources/image/stores/gabit-skincare-store-1741610226.png',
     url: 'https://bitli.in/1F4IFXk',
@@ -571,7 +563,7 @@ export const storeData: Store[] = [
     description: "Live Healthier and Longer with Gabit!"
   },
   {
-    id: '72',
+    id: '71',
     name: 'Lotus Botanicals',
     logo: 'https://asset20.ckassets.com/resources/image/stores/lotus-botanical-store-1670917676.png',
     url: 'https://bitli.in/Mhm81RN',
@@ -579,7 +571,7 @@ export const storeData: Store[] = [
     description: "Indulge in the Goodness and Purity of Nature with Lotus Botanicals wide range of 100% Vegan products"
   },
   {
-    id: '73',
+    id: '72',
     name: 'Clove Dental',
     logo: 'https://asset20.ckassets.com/resources/image/stores/clove-dental-store-1718780805.png',
     url: 'https://bitli.in/TJaHj3f',
@@ -587,7 +579,7 @@ export const storeData: Store[] = [
     description: "India's largest dental chain with over 500 clinics!"
   },
   {
-    id: '74',
+    id: '73',
     name: 'Urban Ladder',
     logo: 'https://asset20.ckassets.com/resources/image/stores/urbanladder-store-1737717682.png',
     url: 'https://bitli.in/bgvwUEc',
@@ -595,7 +587,7 @@ export const storeData: Store[] = [
     description: "Beautiful Homes Start Here!"
   },
   {
-    id: '75',
+    id: '74',
     name: 'XYXX',
     logo: 'https://asset20.ckassets.com/resources/image/stores/xyxx-1657861140.png',
     url: 'https://bitli.in/igU5Hcc',
@@ -603,7 +595,7 @@ export const storeData: Store[] = [
     description: "Premium and Comfortable Innerwear, Loungewear and Activewear Collection"
   },
   {
-    id: '76',
+    id: '75',
     name: 'Minimalist',
     logo: 'https://asset20.ckassets.com/resources/image/stores/minimalist-1658396231.png',
     url: 'https://bitli.in/LnBFTxP',
@@ -611,7 +603,7 @@ export const storeData: Store[] = [
     description: "Offering High-Performance, Dermatologist-Approved Products!"
   },
   {
-    id: '77',
+    id: '76',
     name: 'Kindlife',
     logo: 'https://asset20.ckassets.com/resources/image/stores/kindlife-1650881667.png',
     url: 'https://bitli.in/2Eetx8a',
@@ -619,7 +611,7 @@ export const storeData: Store[] = [
     description: "Clean Beauty, Nutrition & Wellness Products"
   },
   {
-    id: '78',
+    id: '77',
     name: 'Hyphen',
     logo: 'https://asset20.ckassets.com/resources/image/stores/hyphen-store-1707997633.png',
     url: 'https://bitli.in/MpzHOKj',
@@ -627,7 +619,7 @@ export const storeData: Store[] = [
     description: "Originated from a Pure Passion for Skincare"
   },
   {
-    id: '79',
+    id: '78',
     name: 'Foxtale',
     logo: 'https://asset20.ckassets.com/resources/image/stores/foxtale-store-1677751477.jpg',
     url: 'https://bitli.in/7XsvsP1',
@@ -635,7 +627,7 @@ export const storeData: Store[] = [
     description: "The right place to buy Skincare Products as Per Every Skin Type"
   },
   {
-    id: '80',
+    id: '79',
     name: 'VLCC',
     logo: 'https://asset20.ckassets.com/resources/image/stores/vlcc-store-1697627455.jpg',
     url: 'https://bitli.in/I2t9GHt',
@@ -643,7 +635,7 @@ export const storeData: Store[] = [
     description: "Growing with the legacy of 30 years in female Beauty and Skincare!"
   },
   {
-    id: '81',
+    id: '80',
     name: 'Ustraa',
     logo: 'https://asset20.ckassets.com/resources/image/stores/ustraa-store-1697626260.png',
     url: 'https://bitli.in/Bdlxo1X',
@@ -651,7 +643,7 @@ export const storeData: Store[] = [
     description: "An Indian Grooming Brand for Men who want to look their best!"
   },
   {
-    id: '82',
+    id: '81',
     name: 'igp',
     logo: 'https://asset20.ckassets.com/resources/image/stores/igp-store-1723466570.png',
     url: 'https://bitli.in/7wz3P0v',
@@ -659,7 +651,7 @@ export const storeData: Store[] = [
     description: "India`s largest multi-category gifting company, providing the best curated collections of festival merchandise"
   },
   {
-    id: '83',
+    id: '82',
     name: 'MuscleBlaze',
     logo: 'https://asset20.ckassets.com/resources/image/stores/muscleblaze-store-1629791765.png',
     url: 'https://bitli.in/aYMWmkR',
@@ -667,7 +659,7 @@ export const storeData: Store[] = [
     description: "Indian Brand for Sports Nutrition Supplements"
   },
   {
-    id: '84',
+    id: '83',
     name: 'Netmeds',
     logo: 'https://asset20.ckassets.com/resources/image/stores/netmeds-store-1610622260.png',
     url: 'https://bitli.in/d0r35h3',
@@ -675,7 +667,7 @@ export const storeData: Store[] = [
     description: "Order Medicines from India's Most Trusted Pharmacy"
   },
   {
-    id: '85',
+    id: '84',
     name: 'Hyugalife',
     logo: 'https://asset20.ckassets.com/resources/image/stores/hyugalife-store-1725869177.png',
     url: 'https://bitli.in/Qdodtz1',
@@ -683,7 +675,7 @@ export const storeData: Store[] = [
     description: "India's happiest health destination authentic health & wellness products!"
   },
   {
-    id: '86',
+    id: '85',
     name: 'Amocare',
     logo: 'https://asset20.ckassets.com/resources/image/stores/amocare-store-1730119825.png',
     url: 'https://bitli.in/MkibGiy',
@@ -691,7 +683,7 @@ export const storeData: Store[] = [
     description: "Amocare empowers Your Intimate Wellness Journey!"
   },
   {
-    id: '87',
+    id: '86',
     name: 'Bella Vita Organic',
     logo: 'https://asset20.ckassets.com/resources/image/stores/bella-vita-store-1634097135.png',
     url: 'https://bitli.in/31qus4x',
@@ -699,7 +691,7 @@ export const storeData: Store[] = [
     description: "Shop authentic Bella Vita Organic products at the best prices!"
   },
   {
-    id: '88',
+    id: '87',
     name: 'Fitspire',
     logo: 'https://asset20.ckassets.com/resources/image/stores/fitspire-admitad-1667540715.jpg',
     url: 'https://bitli.in/9vYptTO',
@@ -707,7 +699,7 @@ export const storeData: Store[] = [
     description: "India's Premium 100% Vegan Health and Wellness Family Brand"
   },
   {
-    id: '89',
+    id: '88',
     name: 'Enamor',
     logo: 'https://asset20.ckassets.com/resources/image/stores/enamor-store-1680607743.png',
     url: 'https://bitli.in/MkibGiy',
@@ -715,7 +707,7 @@ export const storeData: Store[] = [
     description: "premium lingerie brand in India specializing in high-quality lingerie!"
   },
   {
-    id: '90',
+    id: '89',
     name: 'Health Kart',
     logo: 'https://asset20.ckassets.com/resources/image/stores/healthkart-1635502455.png',
     url: 'https://bitli.in/bA3VbU2',
@@ -723,7 +715,7 @@ export const storeData: Store[] = [
     description: "Best Offers on Whey Proteins, Mass Gainers & more"
   },
   {
-    id: '91',
+    id: '90',
     name: 'Puer',
     logo: 'https://asset20.ckassets.com/resources/image/stores/puer-store-1705297498.jpg',
     url: 'https://bitli.in/0EbIg06',
@@ -731,7 +723,7 @@ export const storeData: Store[] = [
     description: "Championing and helping new moms with the realness of motherhood"
   },
   {
-    id: '92',
+    id: '91',
     name: 'Shyaway',
     logo: 'https://asset20.ckassets.com/resources/image/stores/shyaway-store-3-live-new-1701328754.jpg',
     url: 'https://bitli.in/a8En51t',
@@ -739,7 +731,7 @@ export const storeData: Store[] = [
     description: "Brings together the perfect blend of Beauty, Comfort and Affordability!"
   },
   {
-    id: '93',
+    id: '92',
     name: 'Sonata',
     logo: 'https://asset20.ckassets.com/resources/image/stores/sonata-store-new-1743597931.png',
     url: 'https://bitli.in/DUQlLeo',
@@ -747,7 +739,7 @@ export const storeData: Store[] = [
     description: "Buy Watches Online at Great Prices!"
   },
   {
-    id: '94',
+    id: '93',
     name: 'Fastrack',
     logo: 'https://asset20.ckassets.com/resources/image/stores/fastrack-store-1724238541.png',
     url: 'https://bitli.in/tMy7Y52',
@@ -755,7 +747,7 @@ export const storeData: Store[] = [
     description: "Trendy, Fashionable and Affordable Watches!"
   },
   {
-    id: '95',
+    id: '94',
     name: 'Fyva',
     logo: 'https://asset20.ckassets.com/resources/image/stores/fyva-store-1744024631.png',
     url: 'https://bitli.in/8gpdfSh',
@@ -763,7 +755,7 @@ export const storeData: Store[] = [
     description: "Fashion Platform That`s Uniquely Sustainable!"
   },
   {
-    id: '96',
+    id: '95',
     name: 'Timex',
     logo: 'https://asset20.ckassets.com/resources/image/stores/timex-store-1681984268.png',
     url: 'https://bitli.in/NyJZFi4',
@@ -771,7 +763,7 @@ export const storeData: Store[] = [
     description: "One of the most trusted brands for wrist watches in India!"
   },
   {
-    id: '97',
+    id: '96',
     name: 'Health Kart Vitals',
     logo: 'https://asset20.ckassets.com/resources/image/stores/hk-vitals-1695983147.jpg',
     url: 'https://bitli.in/dh2MXh0',
@@ -779,7 +771,7 @@ export const storeData: Store[] = [
     description: "India's Trusted Brand for Multivitamins, Amino Acids, Omega & More!"
   },
   {
-    id: '98',
+    id: '97',
     name: 'Samsung',
     logo: 'https://asset20.ckassets.com/resources/image/stores/ckssamsunggck-1561466242.png',
     url: 'https://bitli.in/hhxwwvA',
@@ -787,7 +779,7 @@ export const storeData: Store[] = [
     description: "Amazing Deals on Home Appliances"
   },
   {
-    id: '99',
+    id: '98',
     name: 'Truemeds',
     logo: 'https://asset20.ckassets.com/resources/image/stores/truemeds-affise-1668159988.png',
     url: 'https://bitli.in/trH77X5',
@@ -795,7 +787,7 @@ export const storeData: Store[] = [
     description: "Fastest Online Medicine delivery from your trusted online Pharmacy!"
   },
   {
-    id: '100',
+    id: '99',
     name: 'Vanity Wagon',
     logo: 'https://asset20.ckassets.com/resources/image/stores/vanity-wagon-store-1739257681.png',
     url: 'https://bitli.in/pyoShEq',
@@ -803,7 +795,7 @@ export const storeData: Store[] = [
     description: "Discover The Best Beauty Essential Kits & Combos!"
   },
   {
-    id: '101',
+    id: '100',
     name: 'Times Prime',
     logo: 'https://asset20.ckassets.com/resources/image/stores/times-prime-new-1704797504.jpg',
     url: 'https://bitli.in/gnsfn8K',
@@ -811,7 +803,7 @@ export const storeData: Store[] = [
     description: "Get Incredible Offers on Disney+ Hotstar, SonyLIV, Uber & Many More"
   },
   {
-    id: '102',
+    id: '101',
     name: 'Clovia',
     logo: 'https://asset20.ckassets.com/resources/image/stores/clovia-store-1627967240.png',
     url: 'https://bitli.in/RkbJmR4',
@@ -819,7 +811,7 @@ export const storeData: Store[] = [
     description: "Buy Trendy & Affordable Bras, Activewear, Nightwear & more"
   },
   {
-    id: '103',
+    id: '102',
     name: 'The Ayurveda Co',
     logo: 'https://asset20.ckassets.com/resources/image/stores/ayurvedaco-store-1626086845.webp',
     url: 'https://bitli.in/GRnBrqg',
@@ -827,7 +819,7 @@ export const storeData: Store[] = [
     description: "Authentic Ayurvedic Products that will leave your Skin Soft, Glowing and Radiant"
   },
   {
-    id: '104',
+    id: '103',
     name: 'Shopclues',
     logo: 'https://asset20.ckassets.com/resources/image/stores/shopclues-store-1660305844.png',
     url: 'https://bitli.in/gkCDcVS',
@@ -835,7 +827,7 @@ export const storeData: Store[] = [
     description: "Online Shopping Site in India for Men, Women and Kids"
   },
   {
-    id: '105',
+    id: '104',
     name: 'Koparo Clean',
     logo: 'https://asset20.ckassets.com/resources/image/stores/koparo-clean-1712820744.png',
     url: 'https://bitli.in/jp0kUZZ',
@@ -843,7 +835,7 @@ export const storeData: Store[] = [
     description: "Offers natural, safe and eco-friendly products for home and hygiene!"
   },
   {
-    id: '106',
+    id: '105',
     name: 'Tiaraa',
     logo: 'https://asset20.ckassets.com/resources/image/stores/tiaraa-store-1680241064.png',
     url: 'https://bitli.in/aCbidFT',
@@ -851,7 +843,7 @@ export const storeData: Store[] = [
     description: "Exquisite craftmanship of beautiful Jewellery Design!"
   },
   {
-    id: '107',
+    id: '106',
     name: 'fnp',
     logo: 'https://asset20.ckassets.com/resources/image/stores/ferns-n-petals-1707118617.png',
     url: 'https://bitli.in/ANh17FO',
@@ -859,7 +851,7 @@ export const storeData: Store[] = [
     description: "India's largest online gift shop for Flowers, Cakes, Personalised Gifts & More!"
   },
   {
-    id: '108',
+    id: '107',
     name: 'Just Herbs',
     logo: 'https://asset20.ckassets.com/resources/image/stores/justherbs-store-1724656735.jpg',
     url: 'https://bitli.in/9pNftaz',
@@ -867,7 +859,7 @@ export const storeData: Store[] = [
     description: "Herbal Beauty, Ayurvedic Purity, Natural Glow"
   },
   {
-    id: '109',
+    id: '108',
     name: 'Bombay Shaving Company',
     logo: 'https://asset20.ckassets.com/resources/image/stores/bombay-shaving-company-new-2-1710419943.png',
     url: 'https://bitli.in/WlZUh8u',
@@ -875,7 +867,7 @@ export const storeData: Store[] = [
     description: "Premium Personal Care and Grooming solutions brand!"
   },
   {
-    id: '110',
+    id: '109',
     name: 'Kurlon',
     logo: 'https://asset20.ckassets.com/resources/image/stores/kurlon-store-1725005198.jpg',
     url: 'https://bitli.in/4efi7D1',
@@ -883,7 +875,7 @@ export const storeData: Store[] = [
     description: "Rest Easy, Live Well with Kurlon!"
   },
   {
-    id: '111',
+    id: '110',
     name: 'True Elements',
     logo: 'https://asset20.ckassets.com/resources/image/stores/true-elements-store-1671615192.jpg',
     url: 'https://bitli.in/kjFzR6R',
@@ -891,7 +883,7 @@ export const storeData: Store[] = [
     description: "India's 1st Clean Label & 100% Wholegrain certified food brand"
   },
   {
-    id: '112',
+    id: '111',
     name: 'Swiss Beauty',
     logo: 'https://asset20.ckassets.com/resources/image/stores/swissbeauty-store-1723635802.png',
     url: 'https://bitli.in/fmq16zR',
@@ -899,7 +891,7 @@ export const storeData: Store[] = [
     description: "Unleashing Radiant Elegance in Every Shade and Style!"
   },
   {
-    id: '113',
+    id: '112',
     name: 'Zandu Care',
     logo: 'https://asset20.ckassets.com/resources/image/stores/emami-zandu-care-store-1677840107.jpg',
     url: 'https://bitli.in/6X13lyP',
@@ -907,7 +899,7 @@ export const storeData: Store[] = [
     description: "Buy 100% Natural and Vegetarian Ayurvedic products and Boost your immunity"
   },
   {
-    id: '114',
+    id: '113',
     name: 'House of Koala',
     logo: 'https://asset20.ckassets.com/resources/image/stores/house-of-koala-store-1744287709.png',
     url: 'https://bitli.in/Un6h9jv',
@@ -915,7 +907,7 @@ export const storeData: Store[] = [
     description: "A Premium Unisex Streetwear Brand!"
   },
   {
-    id: '115',
+    id: '114',
     name: 'Cleevo',
     logo: 'https://asset20.ckassets.com/resources/image/stores/cleevo-store-1726570548.png',
     url: 'https://bitli.in/UgaBSAH',
@@ -923,7 +915,7 @@ export const storeData: Store[] = [
     description: "Cleevo: Clean Living, Naturally!"
   },
   {
-    id: '116',
+    id: '115',
     name: 'Elver',
     logo: 'https://asset20.ckassets.com/resources/image/stores/elver-store-1744623904.png',
     url: 'https://bitli.in/vgIeVmx',
@@ -931,7 +923,7 @@ export const storeData: Store[] = [
     description: "A World Where Music Knows No Bounds!"
   },
   {
-    id: '117',
+    id: '116',
     name: 'Sugar',
     logo: 'https://asset20.ckassets.com/resources/image/stores/sugar-store-1744721889.png',
     url: 'https://bitli.in/LXnh6hg',
@@ -939,7 +931,7 @@ export const storeData: Store[] = [
     description: "Bold & High-Performance Makeup!"
   },
   {
-    id: '118',
+    id: '117',
     name: 'Rasayanam',
     logo: 'https://asset20.ckassets.com/resources/image/stores/rasayanam-store-1746186602.png ',
     url: 'https://bitli.in/PMULdJ8',
@@ -947,7 +939,7 @@ export const storeData: Store[] = [
     description: "Ayurvedic Wellness & Supplements at Rasayanam!"
   },
   {
-    id: '119',
+    id: '118',
     name: 'Personal Touch Skincare',
     logo: 'https://asset20.ckassets.com/resources/image/stores/personal-touch-skincare-store-1746188787.png',
     url: 'https://bitli.in/z0P19QT',
@@ -955,7 +947,7 @@ export const storeData: Store[] = [
     description: "Luxury Skincare Brand Elevating Personal Beauty!"
   },
   {
-    id: '120',
+    id: '119',
     name: 'La` French',
     logo: 'https://asset20.ckassets.com/resources/image/stores/la-french-store-1746190573.png',
     url: 'https://bitli.in/y5A4JsX',
@@ -963,7 +955,7 @@ export const storeData: Store[] = [
     description: "Luxurious Fragrances with a Unique Blend of Floral and Woody Scents!"
   },
   {
-    id: '121',
+    id: '120',
     name: 'All Man',
     logo: 'https://asset20.ckassets.com/resources/image/stores/allman-store-1747634347.png',
     url: 'https://bitli.in/q53Xr6d',
@@ -971,7 +963,7 @@ export const storeData: Store[] = [
     description: "Own Your Groom. Rule Your Day!"
   },
   {
-    id: '122',
+    id: '121',
     name: 'Biba',
     logo: 'https://asset20.ckassets.com/resources/image/stores/biba-store-1606474399.png',
     url: 'https://bitli.in/eLc0rmp',
@@ -979,7 +971,7 @@ export const storeData: Store[] = [
     description: "Celebrate Your Style with Biba's Ethnic Collection!"
   },
   {
-    id: '123',
+    id: '122',
     name: 'SS Beauty',
     logo: 'https://asset20.ckassets.com/resources/image/stores/ssbeauty-store-1701763311.png',
     url: 'https://bitli.in/5QlBMk2',
@@ -987,7 +979,7 @@ export const storeData: Store[] = [
     description: "Luxe Perfumes, Makeup, Skincare & More from the Best Brands!"
   },
   {
-    id: '124',
+    id: '123',
     name: 'Boat',
     logo: 'https://asset20.ckassets.com/resources/image/stores/boat-store-1607926097.png',
     url: 'https://bitli.in/t8JZQYO',
@@ -995,7 +987,7 @@ export const storeData: Store[] = [
     description: "Designed in India | World's 5th Largest Wearable Brand"
   },
   {
-    id: '125',
+    id: '124',
     name: 'Fireboltt',
     logo: 'https://asset20.ckassets.com/resources/image/stores/fireboltt-store-1704351718.jpg',
     url: 'https://bitli.in/cryYRxm',
@@ -1003,7 +995,7 @@ export const storeData: Store[] = [
     description: "Affordable Innovation for the Connected Lifestyle"
   },
   {
-    id: '126',
+    id: '125',
     name: 'Air India',
     logo: 'https://asset20.ckassets.com/resources/image/stores/air-india-store-1728906771.png',
     url: 'https://bitli.in/5I8i53H',
@@ -1011,7 +1003,7 @@ export const storeData: Store[] = [
     description: "Air India is the national carrier of India, offering flights to over 700 destinations on its partner network"
   },
   {
-    id: '127',
+    id: '126',
     name: 'Zop',
     logo: 'https://asset20.ckassets.com/resources/image/stores/zop-store-1750073420.png',
     url: 'https://bitli.in/bVvMzkb',
@@ -1019,7 +1011,7 @@ export const storeData: Store[] = [
     description: "First of its Kind D2C Discovery Platform!"
   },
   {
-    id: '128',
+    id: '127',
     name: 'Soulflower',
     logo: 'https://asset20.ckassets.com/resources/image/stores/soulflower-store-1724674575.png',
     url: 'https://bitli.in/t7d0bI2',
@@ -1027,7 +1019,7 @@ export const storeData: Store[] = [
     description: "Pure, Natural, & Effective Skincare Solutions!"
   },
   {
-    id: '129',
+    id: '128',
     name: 'The Body Shop',
     logo: 'https://asset20.ckassets.com/resources/image/stores/the-bodyshop-store-1749922822.png',
     url: 'https://bitli.in/4i9h0zo',
@@ -1035,7 +1027,7 @@ export const storeData: Store[] = [
     description: "British Cosmetics, Skincare, and Retail Perfume Brand!"
   },
   {
-    id: '130',
+    id: '129',
     name: 'Veeba',
     logo: 'https://asset20.ckassets.com/resources/image/stores/veeba-store-1750161512.png',
     url: 'https://bitli.in/nxiecWO',
@@ -1043,7 +1035,7 @@ export const storeData: Store[] = [
     description: "Your Food, Your Rules!"
   },
   {
-    id: '131',
+    id: '130',
     name: 'Forest Essentials',
     logo: 'https://asset20.ckassets.com/resources/image/stores/forestessentials-store-1723552221.png',
     url: 'https://bitli.in/wsHqDT0',
@@ -1051,7 +1043,7 @@ export const storeData: Store[] = [
     description: "Blending old traditions with new ideas to make you feel fantastic!"
   },
   {
-    id: '132',
+    id: '131',
     name: 'Bombay Shaving Company',
     logo: 'https://asset20.ckassets.com/resources/image/stores/bombay-shaving-company-new-2-1710419943.png',
     url: 'https://bitli.in/WlZUh8u',
@@ -1059,7 +1051,7 @@ export const storeData: Store[] = [
     description: "Premium Personal Care and Grooming solutions brand!"
   },
   {
-    id: '133',
+    id: '132',
     name: 'Reliance Digital',
     logo: 'https://asset20.ckassets.com/resources/image/stores/reliance-digital-store-1617799608.png',
     url: 'https://bitli.in/jYZi7Dd',
@@ -1067,7 +1059,7 @@ export const storeData: Store[] = [
     description: "Online Electronic Shopping Store in India!"
   },
   {
-    id: '134',
+    id: '133',
     name: 'Iba Cosmetics',
     logo: 'https://asset20.ckassets.com/resources/image/stores/ibacosmetics-store-1750846690.png',
     url: 'https://bitli.in/6dvT5cS',
@@ -1075,7 +1067,7 @@ export const storeData: Store[] = [
     description: "Pure Beauty, Powered by Compassion!"
   },
   {
-    id: '135',
+    id: '134',
     name: 'Hostinger',
     logo: 'https://asset20.ckassets.com/resources/image/stores/hostinger-store-1667194525.jpg',
     url: 'https://bitli.in/04K3728',
@@ -1083,7 +1075,7 @@ export const storeData: Store[] = [
     description: "Join 1,278,620 website owners who are building their businesses online"
   },
   {
-    id: '136',
+    id: '135',
     name: 'BHIM',
     logo: 'https://asset20.ckassets.com/resources/image/stores/bhim-store-hidden-1752901728.png',
     url: 'https://bitli.in/Sx6hJfY',
