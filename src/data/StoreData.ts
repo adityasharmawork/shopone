@@ -211,12 +211,12 @@ export const storeData: Store[] = [
     description: "Leading Global Platform for Online Learning"
   },
   {
-    id: '25',
-    name: 'The Man Company',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/themancompany-direct-new-1702282942.png',
-    url: 'https://bitli.in/P4cRd1B',
-    categories: ['General', 'Beauty'],
-    description: "Complete Range of Men's Grooming Products"
+    id: '27',
+    name: 'Goibibo',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/goibibo-1657700314.png',
+    url: 'https://bitli.in/8VYlg3q',
+    categories: ['Travelling'],
+    description: "Leading Online Travel Booking Brand at Lowest Airfare"
   },
   {
     id: '25',
