@@ -467,12 +467,12 @@ export const storeData: Store[] = [
     description: "Mokobara Elevates the Joy of Travel for Everyone!"
   },
   {
-    id: '57',
-    name: 'Redcliffe Labs',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/redclifflabs-store-1734083102.png',
-    url: 'https://bitli.in/xpHa78e',
-    categories: ['General', 'Health & Fitness', 'Pharmacy'],
-    description: "Redcliffe Labs: Accurate insights, healthier tomorrows!"
+    id: '59',
+    name: 'Expedia',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/expedia-store-1730893396.png',
+    url: 'https://bitli.in/vIQyw39',
+    categories: ['Travelling'],
+    description: "Discover the World with Best Travel Experience!"
   },
   {
     id: '57',
