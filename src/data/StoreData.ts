@@ -491,12 +491,12 @@ export const storeData: Store[] = [
     description: "Premium, Authentic & Indigenous food specialities!"
   },
   {
-    id: '60',
-    name: 'Noise',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png',
-    url: 'https://bitli.in/iBnrK7D',
-    categories: ['General', 'Electronics', 'Accessories'],
-    description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
+    id: '62',
+    name: 'Hotels Com',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/hotels-india-store-1734697776.png',
+    url: 'https://bitli.in/9ypf8Uz',
+    categories: ['Travelling'],
+    description: "Hassle-free hotel bookings and unbeatable deals worldwide!"
   },
   {
     id: '60',
