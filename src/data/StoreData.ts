@@ -443,12 +443,12 @@ export const storeData: Store[] = [
     description: "Empowering Investors, Enabling Financial Growth Together!"
   },
   {
-    id: '50',
-    name: 'Ceazur',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/ceazur-store-1727433825.png',
-    url: 'https://bitli.in/nH4sXfn',
-    categories: ['Beauty', 'Health & Fitness'],
-    description: "Ceazur: Effortless elegance for the modern gentleman!"
+    id: '56',
+    name: 'Portronics',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/portronics-1667193293.png',
+    url: 'https://bitli.in/pOwX6r3',
+    categories: ['Electronics', 'Home'],
+    description: "Trusted brand in Speakers, Headphones, Fitness trackers & More"
   },
   {
     id: '50',
