@@ -499,12 +499,12 @@ export const storeData: Store[] = [
     description: "Hassle-free hotel bookings and unbeatable deals worldwide!"
   },
   {
-    id: '60',
-    name: 'Noise',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/gonoise-store-ek-1724994446.png',
-    url: 'https://bitli.in/iBnrK7D',
-    categories: ['General', 'Electronics', 'Accessories'],
-    description: "AMOLED Display Watches, Advanced Calling Watches, and More!"
+    id: '63',
+    name: 'Indigo',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/indigohotels2-1750325350.png',
+    url: 'https://bitli.in/SU4PkWU',
+    categories: ['Travelling'],
+    description: "Hotel chain offering Stylish and Affordable Accommodations with Modern Amenities!"
   },
   {
     id: '60',
