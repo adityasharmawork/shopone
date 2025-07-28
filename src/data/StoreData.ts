@@ -379,12 +379,12 @@ export const storeData: Store[] = [
     description: "Clean Beauty, High Impact!"
   },
   {
-    id: '40',
-    name: 'Pepperfry',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/pepperfry-new-1721737170.png',
-    url: 'https://bitli.in/nu2kYq0',
-    categories: ['General', 'Home'],
-    description: "Furniture, Home Decor, Lamps, Homeware and more at best prices!"
+    id: '48',
+    name: 'Kapiva',
+    logo: 'https://asset20.ckassets.com/resources/image/stores/kapiva-store-live-1644313508.png',
+    url: 'https://bitli.in/5m8nv4c',
+    categories: ['Beauty', 'Health & Fitness'],
+    description: "100% Ayurvedic, Vegan & Keto Friendly Nutrition"
   },
   {
     id: '40',
