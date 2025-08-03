@@ -1082,14 +1082,6 @@ export const storeData: Store[] = [
     categories: ['General', 'Electronics'],
     description: "Bharat Ka Apna Payments App—a UPI Payment App!"
   },
-  {
-    id: '135',
-    name: 'BHIM',
-    logo: 'https://asset20.ckassets.com/resources/image/stores/bhim-store-hidden-1752901728.png',
-    url: 'https://bitli.in/Sx6hJfY',
-    categories: ['General', 'Electronics'],
-    description: "Bharat Ka Apna Payments App—a UPI Payment App!"
-  },
 ];
 
 export const getCategories = (): string[] => {
