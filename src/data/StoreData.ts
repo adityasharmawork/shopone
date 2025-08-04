@@ -1082,6 +1082,7 @@ export const storeData: Store[] = [
     categories: ['General', 'Electronics'],
     description: "Bharat Ka Apna Payments App—a UPI Payment App!"
   },
+  
 ];
 
 export const getCategories = (): string[] => {
